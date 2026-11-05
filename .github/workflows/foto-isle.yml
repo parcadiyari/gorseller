@@ -18,7 +18,7 @@ jobs:
         run: |
           for f in foto-v2/*_liste.json; do
             n=$(basename "$f" _liste.json)
-            python foto-v2/tools/isle.py "$f" "foto-v2/$n" || true
+            SAVE_SRC=$([ "$n" = test ] && echo 1) python foto-v2/tools/isle.py "$f" "foto-v2/$n" || true
           done
       - name: Kaydet
         run: |

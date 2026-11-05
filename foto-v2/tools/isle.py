@@ -59,7 +59,11 @@ def main(liste, outdir):
         out = os.path.join(outdir, gid + ".jpg")
         if os.path.exists(out): continue
         try:
-            src = Image.open(io.BytesIO(get(SRC.format(sha))))
+            raw = get(SRC.format(sha))
+            if os.environ.get("SAVE_SRC"):
+                os.makedirs(os.path.join(outdir, "_src"), exist_ok=True)
+                open(os.path.join(outdir, "_src", gid + ".jpg"), "wb").write(raw)
+            src = Image.open(io.BytesIO(raw))
             w, fg = whiten(src)
             res, sc = place(w, fg, logo)
             res.save(out, "JPEG", quality=88, optimize=True)
