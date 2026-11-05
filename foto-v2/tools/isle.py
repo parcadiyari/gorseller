@@ -54,7 +54,7 @@ def place(im, fg, logo):
     box = (xs.min(), ys.min(), xs.max() + 1, ys.max() + 1)
     part = im.crop(box)
     S, pad = 1000, 90
-    sc = min((S - 2 * pad) / part.width, (S - 2 * pad - 60) / part.height)
+    sc = min((S - 2 * pad) / part.width, (S - 2 * pad - 60) / part.height, 2.2)
     part = part.resize((max(1, round(part.width * sc)), max(1, round(part.height * sc))), Image.LANCZOS)
     can = Image.new("RGB", (S, S), "white")
     can.paste(part, ((S - part.width) // 2, (S - part.height) // 2 - 20))
