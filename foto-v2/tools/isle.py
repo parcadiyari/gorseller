@@ -22,14 +22,31 @@ def load_logo():
 
 def whiten(im):
     a = np.asarray(im.convert("RGB")).astype(np.int16)
+    h, w, _ = a.shape
+    border = np.concatenate([a[0], a[-1], a[:, 0], a[:, -1]])
+    bgc = np.median(border, 0)
+    dist = np.abs(a - bgc).max(2)
+    g = np.zeros((h, w), np.int16)
+    for dy, dx in ((0, 1), (1, 0)):
+        d = np.abs(a[dy:, dx:] - a[:h - dy, :w - dx]).max(2)
+        g[dy:, dx:] = np.maximum(g[dy:, dx:], d)
+        g[:h - dy, :w - dx] = np.maximum(g[:h - dy, :w - dx], d)
     mx, mn = a.max(2), a.min(2)
-    cand = (mn > 145) & ((mx - mn) < 40)          # acik + dusuk doygunluk
+    cand = (dist < 60) & (g < 12) & ((mx - mn) < 40)
     lab, _ = ndimage.label(cand)
     edge = np.unique(np.concatenate([lab[0], lab[-1], lab[:, 0], lab[:, -1]]))
     bg = np.isin(lab, edge[edge > 0])
-    bg = ndimage.binary_opening(bg, iterations=1)
-    a[bg] = 255
-    return Image.fromarray(a.astype(np.uint8)), ~bg
+    fg = ~bg
+    # kucuk kirintilari at
+    lab2, n = ndimage.label(fg)
+    if n:
+        sizes = ndimage.sum(fg, lab2, range(1, n + 1))
+        keep = np.isin(lab2, np.where(sizes >= max(30, fg.sum() * 0.002))[0] + 1)
+        fg = keep
+    # urun icindeki delikleri doldurma; kenara bagli arka plani beyaza cek
+    soft = ndimage.binary_dilation(fg, iterations=1)
+    a[~soft] = 255
+    return Image.fromarray(a.astype(np.uint8)), fg
 
 def place(im, fg, logo):
     ys, xs = np.where(fg)
@@ -54,6 +71,7 @@ def place(im, fg, logo):
 def main(liste, outdir):
     os.makedirs(outdir, exist_ok=True)
     logo = load_logo()
+    logo.save(os.path.join(os.path.dirname(liste), "tools", "logo.png"))
     rapor = []
     for gid, sha in json.load(open(liste)):
         out = os.path.join(outdir, gid + ".jpg")
@@ -64,6 +82,8 @@ def main(liste, outdir):
                 os.makedirs(os.path.join(outdir, "_src"), exist_ok=True)
                 open(os.path.join(outdir, "_src", gid + ".jpg"), "wb").write(raw)
             src = Image.open(io.BytesIO(raw))
+            if max(src.size) < 400:
+                rapor.append([gid, "dusuk_cozunurluk", src.size]); continue
             w, fg = whiten(src)
             res, sc = place(w, fg, logo)
             res.save(out, "JPEG", quality=88, optimize=True)
