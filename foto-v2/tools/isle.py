@@ -77,7 +77,7 @@ def main(liste, outdir):
         out = os.path.join(outdir, gid + ".jpg")
         if os.path.exists(out): continue
         try:
-            raw = get(SRC.format(sha))
+            raw = get(sha if sha.startswith("http") else SRC.format(sha))
             if os.environ.get("SAVE_SRC"):
                 os.makedirs(os.path.join(outdir, "_src"), exist_ok=True)
                 open(os.path.join(outdir, "_src", gid + ".jpg"), "wb").write(raw)
