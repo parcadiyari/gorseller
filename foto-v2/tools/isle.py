@@ -1,4 +1,4 @@
-import json, sys, os, io, time, urllib.request
+import json, sys, os, io, time, urllib.request, urllib.error
 import numpy as np
 from PIL import Image
 from scipy import ndimage
@@ -10,8 +10,11 @@ UA = {"User-Agent": "Mozilla/5.0 parcadiyari-gorsel"}
 def get(url, tries=3):
     for i in range(tries):
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
                 return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code in (403, 404): raise
+            err = e; time.sleep(2 * (i + 1))
         except Exception as e:
             err = e; time.sleep(2 * (i + 1))
     raise err
