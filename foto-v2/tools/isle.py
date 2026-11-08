@@ -89,7 +89,7 @@ def main(liste, outdir):
                 os.makedirs(os.path.join(outdir, "_src"), exist_ok=True)
                 open(os.path.join(outdir, "_src", gid + ".jpg"), "wb").write(raw)
             src = Image.open(io.BytesIO(raw))
-            if max(src.size) < 400:
+            if max(src.size) < (200 if 'dusuk' in os.path.basename(liste) else 400):
                 rapor.append([gid, "dusuk_cozunurluk", src.size]); continue
             w, fg = whiten(src)
             res, sc = place(w, fg, logo)
