@@ -8,6 +8,10 @@ SRC = "https://digital-assets.tecalliance.services/images/800/{}.jpg"
 UA = {"User-Agent": "Mozilla/5.0 parcadiyari-gorsel"}
 
 def get(url, tries=3):
+    if url.startswith("/"):
+        return open(url,"rb").read()
+    if url==LOGO_URL and os.environ.get("LOGO_FILE"):
+        return open(os.environ["LOGO_FILE"],"rb").read()
     for i in range(tries):
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
@@ -80,7 +84,7 @@ def main(liste, outdir):
         out = os.path.join(outdir, gid + ".jpg")
         if os.path.exists(out): continue
         try:
-            raw = get(sha if sha.startswith("http") else SRC.format(sha))
+            raw = get(sha if sha.startswith(("http","/")) else SRC.format(sha))
             if os.environ.get("SAVE_SRC"):
                 os.makedirs(os.path.join(outdir, "_src"), exist_ok=True)
                 open(os.path.join(outdir, "_src", gid + ".jpg"), "wb").write(raw)
