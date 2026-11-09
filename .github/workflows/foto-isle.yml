@@ -3,9 +3,14 @@ on:
   push:
     paths: ["foto-v2/*_liste.json", "foto-v2/tools/**", ".github/workflows/foto-isle.yml"]
   workflow_dispatch:
+    inputs:
+      liste:
+        description: "Sadece bu liste (ornek: tam3). Bos = hepsi"
+        required: false
+        default: ""
 permissions:
   contents: write
-concurrency: foto-isle
+concurrency: foto-isle-${{ github.event.inputs.liste || 'hepsi' }}
 jobs:
   isle:
     runs-on: ubuntu-latest
@@ -18,9 +23,13 @@ jobs:
       - name: Isle
         timeout-minutes: 100
         continue-on-error: true
+        env:
+          TEK: ${{ github.event.inputs.liste }}
         run: |
           for f in foto-v2/*_liste.json; do
             n=$(basename "$f" _liste.json)
+            if [ -n "$TEK" ] && [ "$n" != "$TEK" ]; then continue; fi
+            if [ -z "$TEK" ] && [ "${n#tam}" != "$n" ]; then continue; fi
             SAVE_SRC=$([ "$n" = test ] && echo 1) python foto-v2/tools/isle.py "$f" "foto-v2/$n" || true
           done
       - name: Kaydet
@@ -28,4 +37,4 @@ jobs:
         run: |
           git config user.name "parcadiyari-bot"; git config user.email "bot@users.noreply.github.com"
           git add foto-v2
-          git diff --cached --quiet || (git commit -m "foto-v2: islenmis gorseller" && for i in 1 2 3 4 5; do git pull --rebase -X theirs -q && git push && break; sleep 5; done)
+          git diff --cached --quiet || (git commit -m "foto-v2: islenmis gorseller ${{ github.event.inputs.liste }}" && for i in 1 2 3 4 5 6 7 8 9 10; do git pull --rebase -X theirs -q && git push && break; sleep $((RANDOM % 20 + 5)); done)
