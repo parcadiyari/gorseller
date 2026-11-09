@@ -91,7 +91,23 @@ def main(liste, outdir):
             src = Image.open(io.BytesIO(raw))
             if max(src.size) < (200 if 'dusuk' in os.path.basename(liste) else 400):
                 rapor.append([gid, "dusuk_cozunurluk", src.size]); continue
-            w, fg = whiten(src)
+            if 'rembg' in os.path.basename(liste):
+                from rembg import remove, new_session
+                global _SESS
+                try: _SESS
+                except NameError: _SESS = new_session("isnet-general-use")
+                rgba = remove(src.convert("RGB"), session=_SESS)
+                al = np.asarray(rgba.getchannel("A"))
+                fg = al > 128
+                lab2, n = ndimage.label(fg)
+                if n:
+                    sizes = ndimage.sum(fg, lab2, range(1, n + 1))
+                    fg = np.isin(lab2, np.where(sizes >= max(30, fg.sum() * 0.01))[0] + 1)
+                if fg.sum() < 0.02 * fg.size: raise ValueError("maske_bos")
+                wbg = Image.new("RGB", rgba.size, "white"); wbg.paste(rgba, mask=rgba.getchannel("A"))
+                w = wbg
+            else:
+                w, fg = whiten(src)
             res, sc = place(w, fg, logo)
             res.save(out, "JPEG", quality=88, optimize=True)
             rapor.append([gid, "ok", src.size, round(sc, 2)])
