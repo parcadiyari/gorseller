@@ -8,7 +8,7 @@ SRC = "https://digital-assets.tecalliance.services/images/800/{}.jpg"
 UA = {"User-Agent": "Mozilla/5.0 parcadiyari-gorsel"}
 
 def get(url, tries=3):
-    if url.startswith("/"):
+    if url.startswith("/") or (not url.startswith("http") and os.path.exists(url)):
         return open(url,"rb").read()
     if url==LOGO_URL and os.environ.get("LOGO_FILE"):
         return open(os.environ["LOGO_FILE"],"rb").read()
