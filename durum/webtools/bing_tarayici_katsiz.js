@@ -10,7 +10,7 @@
     if(e.data.stop){stop=true;return;}
     Q=e.data.Q;i=e.data.start;
     while(i<Q.length&&!stop){
-      const [g,q,code,marka]=Q[i];let hits=[];
+      let [g,q,code,marka]=Q[i];if(marka==='EUROREPAR'&&!/eurorepar/i.test(q))q='eurorepar '+q;let hits=[];
       try{
         const r=await fetch('https://www.bing.com/images/async?q='+encodeURIComponent(q)+'&first=0&count=40&mmasync=1',{credentials:'include'});
         const t=await r.text();
@@ -21,7 +21,9 @@
             if(!u||BLOCK.test(u)||BLOCK.test(j.purl||''))continue;
             const hay=norm(u+' '+(j.t||'')+' '+(j.purl||''));
             if(!hay.includes(code))continue;
-            if(code.length<8&&BRAND[marka]&&!BRAND[marka].test(u+' '+(j.t||'')+' '+(j.purl||'')))continue;
+            const txt=u+' '+(j.t||'')+' '+(j.purl||'');
+            if(BRAND[marka]){if(code.length<8&&!BRAND[marka].test(txt))continue;}
+            else{const bn=norm(marka.split(/[ .\-]/).sort((a,b)=>b.length-a.length)[0]);if(bn.length>=3&&!norm(txt).includes(bn))continue;}
             if(!hits.includes(u))hits.push(u);
           }catch(_){}
         }
