@@ -4,3 +4,4 @@
 - webdusuk2: isleniyor/inceleme bekliyor. Inceleme -> /home/claude/webtools/kabul.py -> ikas'a Gorsel URL ile yukle.
 - Islenen urunler: durum/web_islenen.json
 - Yeni PC: Chrome + Claude eklentisi, ikas girisi (dmcyedekparca.myikas.com) gerekli. Basbug/RepXpert gerekirse ayrica giris.
+- 12.11: webdusuk5 -> 287 urun ikas'a yuklendi ve dogrulandi (Gorsel URL tek). webdusuk6 (1261 urun/3210 aday, web_b5) isleniyor. Bing tarayici ~5745/11354.
