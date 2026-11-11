@@ -894,8 +894,12 @@
 ],
 [
 "ad9b7225-4b98-4ad5-8f48-0d3d1d30c016_2",
-"hata",
-"HTTP Error 521: <none>"
+"ok",
+[
+800,
+600
+],
+1.79
 ],
 [
 "a914752d-c95c-4ccd-a7d8-a3162c9035a2_0",
@@ -2865,7 +2869,7 @@
 [
 "859f500b-1a69-496e-aa31-e26c3ad0900d_2",
 "hata",
-"cannot identify image file <_io.BytesIO object at 0x74f7a0244ae0>"
+"cannot identify image file <_io.BytesIO object at 0x71a6ae864810>"
 ],
 [
 "5079a041-06c6-4528-a198-4705db3ab95d_0",
@@ -6634,7 +6638,7 @@
 800,
 800
 ],
-1.02
+1.08
 ],
 [
 "50d402fa-9285-453f-b81f-392fcf1900bc_0",
@@ -7034,7 +7038,7 @@
 960,
 718
 ],
-1.06
+1.15
 ],
 [
 "6e27e949-34a9-41e4-937e-1f9abb8ee1b0_0",
@@ -7995,7 +7999,7 @@
 [
 "da7ac1fe-889f-481b-94f9-616920c680ad_2",
 "hata",
-"cannot identify image file <_io.BytesIO object at 0x74f7a02af1f0>"
+"cannot identify image file <_io.BytesIO object at 0x71a6ae8d3560>"
 ],
 [
 "4cccb77c-20c2-4c4d-a942-840df2fde1f7_0",
@@ -8022,7 +8026,7 @@
 800,
 800
 ],
-1.11
+1.1
 ],
 [
 "dff0112f-8423-4c7e-840f-b9f6f9ec4d07_0",
@@ -8488,7 +8492,7 @@
 994,
 720
 ],
-1.21
+1.14
 ],
 [
 "715f5cc1-6d3a-4964-9d17-f71bc083140a_1",
@@ -8501,12 +8505,8 @@
 ],
 [
 "715f5cc1-6d3a-4964-9d17-f71bc083140a_2",
-"ok",
-[
-616,
-532
-],
-1.82
+"hata",
+"HTTP Error 502: Bad Gateway"
 ],
 [
 "2206872c-9906-4894-af30-42d85da03ea7_0",
@@ -10157,21 +10157,13 @@
 ],
 [
 "95073780-7178-4589-87c8-1eb4600b23b8_1",
-"ok",
-[
-800,
-600
-],
-1.02
+"hata",
+"HTTP Error 502: Bad Gateway"
 ],
 [
 "95073780-7178-4589-87c8-1eb4600b23b8_2",
-"ok",
-[
-800,
-600
-],
-1.03
+"hata",
+"HTTP Error 502: Bad Gateway"
 ],
 [
 "c075723a-9774-4cd0-a908-9d3b4b0cc623_0",
@@ -10997,7 +10989,7 @@
 800,
 800
 ],
-1.09
+1.08
 ],
 [
 "9266d17b-bddf-477f-a7bd-24186b2ffe6a_0",
