@@ -19,7 +19,8 @@ p=open(W+'PROMPT_web.md').read().replace('/tmp/rv10',rv)
 p+='''
 Extra notes for KATSIZ batches: isim.tsv columns are index, brand, name, SKU. Many names (esp. OE-PSA) are squashed Turkish abbreviations
 without spaces (e.g. NAMORTSR = amortisor, AYDINLKUMAN, ARSIZDIRPLAK). Use yanlis_urun only when the photo is CLEARLY a different part type;
-if the name is unreadable, do not reject for yanlis_urun. Watermark / other-shop rules stay STRICT.
+if the name is unreadable, do not reject for yanlis_urun. The owner insists on CLEAN photo + CORRECT part: when the name is readable
+and the photo does not plausibly show that part type, reject yanlis_urun. Watermark / other-shop rules stay STRICT.
 '''
 open(rv+'/PROMPT.md','w').write(p)
 os.system(f'cd {rv} && python3 grid.py 0 100000')
