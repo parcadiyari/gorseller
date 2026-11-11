@@ -5,3 +5,4 @@
 - Islenen urunler: durum/web_islenen.json
 - Yeni PC: Chrome + Claude eklentisi, ikas girisi (dmcyedekparca.myikas.com) gerekli. Basbug/RepXpert gerekirse ayrica giris.
 - 12.11: webdusuk5 -> 287 urun ikas'a yuklendi ve dogrulandi (Gorsel URL tek). webdusuk6 (1261 urun/3210 aday, web_b5) isleniyor. Bing tarayici ~5745/11354.
+- 12.11: webdusuk6 -> 711 urun ikas'a yuklendi ve dogrulandi. Not: 'ALET TAKIMI 9840566680' urun adi yanlis olabilir (etikette fan rezistansi).
