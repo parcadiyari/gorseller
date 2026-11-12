@@ -7,3 +7,4 @@
 - 12.11: webdusuk5 -> 287 urun ikas'a yuklendi ve dogrulandi (Gorsel URL tek). webdusuk6 (1261 urun/3210 aday, web_b5) isleniyor. Bing tarayici ~5745/11354.
 - 12.11: webdusuk6 -> 711 urun ikas'a yuklendi ve dogrulandi. Not: 'ALET TAKIMI 9840566680' urun adi yanlis olabilir (etikette fan rezistansi).
 - 12.11: Chrome sekme grubu kayboldu; Bing tarayici yeni sekmede (robots.txt, 1456760769) 7147'den yeniden baslatildi. webdusuk7 (1017 urun/1844 aday) incelemede.
+- 12.11: webdusuk7 -> 570 urun ikas'a yuklendi ve dogrulandi (8/8 ornek 1000px).
