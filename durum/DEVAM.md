@@ -8,3 +8,4 @@
 - 12.11: webdusuk6 -> 711 urun ikas'a yuklendi ve dogrulandi. Not: 'ALET TAKIMI 9840566680' urun adi yanlis olabilir (etikette fan rezistansi).
 - 12.11: Chrome sekme grubu kayboldu; Bing tarayici yeni sekmede (robots.txt, 1456760769) 7147'den yeniden baslatildi. webdusuk7 (1017 urun/1844 aday) incelemede.
 - 12.11: webdusuk7 -> 570 urun ikas'a yuklendi ve dogrulandi (8/8 ornek 1000px).
+- 12.11: webdusuk8 -> 347 urun ikas'a yuklendi ve dogrulandi. Bilgisayar degisti (masa19); Bing tarayici 7984'ten yeniden baslatildi (sekme bing robots.txt).
