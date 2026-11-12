@@ -9,3 +9,4 @@
 - katsizdusuk1 dersi: saf sayısal EUROREPAR kodları alakasız foto getiriyordu → tarayıcıya marka adı zorunluluğu eklendi, tarama 0'dan yeniden başladı.
   katsizdusuk1: 207 üründen 86'sı kabul (durum/katsizdusuk1_yuklenen.json), kalanlar katsiz_islenen'den çıkarıldı (yeniden aranacak).
 - 12.11 09:55: katsizdusuk1 86 ürün ikas'a yüklendi (Chrome, yalnızca Görsel URL), ikas-admin ile 86/86 foto + fiyat aynı doğrulandı. Yükleme Chrome'dan yapılır (kullanıcı orada girişli).
+- tamkatsizdusuk2: 457 üründen 175 kabul. Bing'de reddedilenler durum/katsiz_bing_red.json (işlenen sayılır; ileride Yandex/Google ile denenecek).
