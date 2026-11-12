@@ -9,3 +9,5 @@
 - 12.11: Chrome sekme grubu kayboldu; Bing tarayici yeni sekmede (robots.txt, 1456760769) 7147'den yeniden baslatildi. webdusuk7 (1017 urun/1844 aday) incelemede.
 - 12.11: webdusuk7 -> 570 urun ikas'a yuklendi ve dogrulandi (8/8 ornek 1000px).
 - 12.11: webdusuk8 -> 347 urun ikas'a yuklendi ve dogrulandi. Bilgisayar degisti (masa19); Bing tarayici 7984'ten yeniden baslatildi (sekme bing robots.txt).
+- 12.11 18:55: Bing taramasi BITTI (11354/11354). Son cikti web_b8.json alindi -> webdusuk9 (998 urun, islendi) + webdusuk10 (1013 urun, GitHub'da isleniyor). Sirada: inceleme (/tmp/rv15, /tmp/rv16) -> kabul.py -> foto_v2_yukle_32_web9.xlsx / _33_web10.xlsx -> ikas (yalniz Gorsel URL). Sonra: Bing'de bulunamayanlar icin Yandex/Google.
+- PC degisimi (12.11 aksami): yeni PC'de Chrome + Claude eklentisi bagli olmali, ikas'a kullanici giris yapmali. Bing sekmesine artik gerek yok.
