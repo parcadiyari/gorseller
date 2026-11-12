@@ -10,3 +10,12 @@
   katsizdusuk1: 207 üründen 86'sı kabul (durum/katsizdusuk1_yuklenen.json), kalanlar katsiz_islenen'den çıkarıldı (yeniden aranacak).
 - 12.11 09:55: katsizdusuk1 86 ürün ikas'a yüklendi (Chrome, yalnızca Görsel URL), ikas-admin ile 86/86 foto + fiyat aynı doğrulandı. Yükleme Chrome'dan yapılır (kullanıcı orada girişli).
 - tamkatsizdusuk2: 457 üründen 175 kabul. Bing'de reddedilenler durum/katsiz_bing_red.json (işlenen sayılır; ileride Yandex/Google ile denenecek).
+
+## PC değişimi devir notu (12.11.2026 19:05)
+- Yüklenen partiler: katsizdusuk1 (86), tamkatsizdusuk2 (175), 3 (294), 4 (306), 5 (276) → toplam 1.137 ürün, ikas'ta doğrulandı.
+- Bing taraması DURDURULDU: durum/katsiz_q.json listesinde **sıradaki indeks 5213** (0..5212 tarandı).
+- Henüz partiye dönüşmemiş ~290 Bing sonucu: durum/katsiz_bekleyen_b6.json → yeni taramanın sonuçlarıyla birleştirip tamkatsizdusuk6 yap.
+- Bing'de reddedilenler (Yandex/Google için): durum/katsiz_bing_red.json.
+- Yeniden başlatma: dahili tarayıcıda bing.com/images/search sekmesi aç, katsiz_worker.js'i fetch edip Worker olarak başlat (__KSTART(5213, <sha>) fonksiyonu; worker kaynağı durum/webtools/katsiz_worker.js; Q = durum/katsiz_q.json).
+- İnceleme: hazirla_k.py → newsheets.py (önceki partilerde görülen URL'leri ayıklar) → gözle inceleme → red_A.json → kabul.py.
+- ikas yükleme: Chrome (kullanıcı orada girişli) → Ürünler → İçe Aktar → Ürünler → yalnızca Görsel URL ("1 bilgi seçili") → İçe Aktar → gizli dosya alanına file_upload (dosya /home/claude altında olmalı). Düğmeleri find ile ref üzerinden tıkla (koordinatla değil).
