@@ -75,6 +75,13 @@ def place(im, fg, logo):
     lay(330, 0.90, lambda l: (S - l.width - 28, S - l.height - 24))
     return can.convert("RGB"), sc
 
+def olc(src):
+    a = np.asarray(src.convert("RGB")).astype(np.int16)
+    b = np.concatenate([a[0], a[-1], a[:, 0], a[:, -1]])
+    kb = float(((b.min(1) > 225) & ((b.max(1) - b.min(1)) < 20)).mean())
+    w, fg = whiten(src)
+    return [round(kb, 3), round(float(fg.mean()), 3)]
+
 def main(liste, outdir):
     os.makedirs(outdir, exist_ok=True)
     logo = load_logo()
@@ -89,6 +96,8 @@ def main(liste, outdir):
                 os.makedirs(os.path.join(outdir, "_src"), exist_ok=True)
                 open(os.path.join(outdir, "_src", gid + ".jpg"), "wb").write(raw)
             src = Image.open(io.BytesIO(raw))
+            if os.path.basename(liste).startswith('olc'):
+                rapor.append([gid, "olc", src.size, olc(src)]); continue
             if max(src.size) < (200 if 'dusuk' in os.path.basename(liste) else 400):
                 rapor.append([gid, "dusuk_cozunurluk", src.size]); continue
             if 'rembg' in os.path.basename(liste):
