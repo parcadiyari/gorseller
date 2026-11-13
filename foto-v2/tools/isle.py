@@ -75,6 +75,11 @@ def place(im, fg, logo):
     lay(330, 0.90, lambda l: (S - l.width - 28, S - l.height - 24))
     return can.convert("RGB"), sc
 
+def kenar(src):
+    a = np.asarray(src.convert("RGB")).astype(np.int16)
+    b = np.concatenate([a[0], a[-1], a[:, 0], a[:, -1]])
+    return float(((b.min(1) > 225) & ((b.max(1) - b.min(1)) < 20)).mean())
+
 def olc(src):
     a = np.asarray(src.convert("RGB")).astype(np.int16)
     b = np.concatenate([a[0], a[-1], a[:, 0], a[:, -1]])
@@ -98,7 +103,7 @@ def main(liste, outdir):
             src = Image.open(io.BytesIO(raw))
             if os.path.basename(liste).startswith('olc'):
                 rapor.append([gid, "olc", src.size, olc(src)]); continue
-            if 'katsiz' in os.path.basename(liste) and olc(src)[0] < 0.2:
+            if 'katsiz' in os.path.basename(liste) and kenar(src) < 0.2:
                 rapor.append([gid, "on_eleme_arkaplan", src.size]); continue
             if max(src.size) < (200 if 'dusuk' in os.path.basename(liste) else 400):
                 rapor.append([gid, "dusuk_cozunurluk", src.size]); continue
