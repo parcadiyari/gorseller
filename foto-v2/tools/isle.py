@@ -98,6 +98,8 @@ def main(liste, outdir):
             src = Image.open(io.BytesIO(raw))
             if os.path.basename(liste).startswith('olc'):
                 rapor.append([gid, "olc", src.size, olc(src)]); continue
+            if 'katsiz' in os.path.basename(liste) and olc(src)[0] < 0.2:
+                rapor.append([gid, "on_eleme_arkaplan", src.size]); continue
             if max(src.size) < (200 if 'dusuk' in os.path.basename(liste) else 400):
                 rapor.append([gid, "dusuk_cozunurluk", src.size]); continue
             if 'rembg' in os.path.basename(liste):
