@@ -19,3 +19,10 @@
 - Liste scripti: durum/webtools/yliste.py (done-set: durum/yandex_islenen.json).
 - Tarayici BLOCK genisletildi (pejo, erdemoto, fiatparcacim, abcp, kornauto ...), commit e8392d5; tarama 1708'den devam ediyor.
 - Export: yandex sekmesinde blob indir -> C:\Users\Masa19\Downloads\yandex_sonuc_N.json -> device_stage_files. Sonraki partide sadece yeni gid'ler (yandex_islenen disinda) islenir.
+
+## Yandex parti 2 (13.11.2026)
+- yandex_sonuc_2.json (tarama 3144'e kadar) -> 876 yeni urun, 1916 aday, 1604 islenmis foto -> 2 tur inceleme + katalog-bar dedektoru (/tmp/rv18/bar2.py) -> 342 urun ikas'a yuklendi (foto_v2_yukle_35_yandex2.xlsx, sadece Gorsel URL).
+- Chrome yandex.com.tr'den 2. otomatik indirmeyi engelliyor. Cozum: yandex sekmesinde butona tikla -> window.open(parcadiyari.com/robots.txt) -> o sekmede message listener ile opener.postMessage('YGET') -> veri gelir -> indir. Yandex sekmesi YGET mesajina __Y verisiyle cevap veriyor.
+- Tarayici durumu her 2 dk localStorage['__YSAVE'] (yandex.com.tr) icine kaydediliyor; Chrome kapanirsa oradan devam: f(SV.i) + Object.assign(__Y.res,SV.res).
+- BLOCK tekrar genisletildi (benimopel, opelline, vdopel, zapchast, ...), commit aec517f; tarama 3360'tan devam.
+- PSA katalog cizimleri altindaki gri "CITROEN PEUGEOT - xxx N-01" bari -> arka_plan (red).
