@@ -13,3 +13,9 @@
 - PC degisimi (12.11 aksami): yeni PC'de Chrome + Claude eklentisi bagli olmali, ikas'a kullanici giris yapmali. Bing sekmesine artik gerek yok.
 - 12.11: webdusuk9 -> 508 urun, webdusuk10 -> 423 urun incelendi (cift kontrol). Excel: /home/claude/yukle/foto_v2_yukle_32_web9.xlsx, _33_web10.xlsx. ikas yuklemesi bekliyor (yeni PC).
 - 13.11: webdusuk9 (508) + webdusuk10 (423) ikas'a yuklendi ve dogrulandi (10/10 1000px). Yandex tarayici basladi: durum/yandex_q.json (7251 urun), kod durum/webtools/yandex_tarayici.js, sekme yandex.com.tr/robots.txt, sonuclar window.__Y.res, BroadcastChannel('yx').
+
+## Yandex parti 1 (13.11.2026)
+- yandex_q.json ilk 1197 urun tarandi -> 368 aday urun, 663 foto -> 2 tur inceleme -> 140 urun yuklendi (foto_v2_yukle_34_yandex1.xlsx, sadece Gorsel URL).
+- Liste scripti: durum/webtools/yliste.py (done-set: durum/yandex_islenen.json).
+- Tarayici BLOCK genisletildi (pejo, erdemoto, fiatparcacim, abcp, kornauto ...), commit e8392d5; tarama 1708'den devam ediyor.
+- Export: yandex sekmesinde blob indir -> C:\Users\Masa19\Downloads\yandex_sonuc_N.json -> device_stage_files. Sonraki partide sadece yeni gid'ler (yandex_islenen disinda) islenir.
