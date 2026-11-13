@@ -1,9 +1,8 @@
-// Yandex görsel tarayıcı - yandex.com.tr/robots.txt sekmesinde çalıştırılır. START = başlangıç indeksi. Captcha görürse DURUR (aşmaya çalışmaz).
 (async function(START){
   const Q=await (await fetch('https://raw.githubusercontent.com/parcadiyari/gorseller/main/durum/yandex_q.json')).json();
   const wsrc = `
   const BRAND={'OE-PSA':/PEUGEOT|CITRO|PSA|STELLANTIS/i,'IOE-PSA':/PEUGEOT|CITRO|PSA|STELLANTIS/i,'OPAR':/FIAT|MOPAR|OPAR|ALFA|LANCIA|STELLANTIS/i,'IOE-OPEL':/OPEL|VAUXHALL|GM|GENERAL MOTORS/i,'OE-OPEL':/OPEL|VAUXHALL|GM|GENERAL MOTORS/i,'BSG':/BSG/i};
-  const BLOCK=/der-ersatzteile-profi|devosautodemontage|ovoko|webshopapp|proxyparts|shbdn|autoricambiusati|alicdn|drauto|verhoeven|recoautos|ahparts|izap24|boucherit|re-group|procaparts|autodily|dezmembrari|autotech24|drostonderdelen|mechantex|impergom|dtspare|avtonomiya|dgjauto|ebay|allegro|aliexpress|amazon|pinterest|facebook|youtube|ytimg|sprzedajemy|olx|euroauto|avito|drom\\.ru|farpost|bibinet|vk\\.com|userapi|yildizlar|baza-|razbor|b-u-|bu-zapchasti|cikma|ikinciel|hurda/i;
+  const BLOCK=/der-ersatzteile-profi|devosautodemontage|ovoko|webshopapp|proxyparts|shbdn|autoricambiusati|alicdn|drauto|verhoeven|recoautos|ahparts|izap24|boucherit|re-group|procaparts|autodily|dezmembrari|autotech24|drostonderdelen|mechantex|impergom|dtspare|avtonomiya|dgjauto|ebay|allegro|aliexpress|amazon|pinterest|facebook|youtube|ytimg|sprzedajemy|olx|euroauto|avito|drom\\.ru|farpost|bibinet|vk\\.com|userapi|yildizlar|baza-|razbor|b-u-|bu-zapchasti|cikma|ikinciel|hurda|pejo|erdemoto|fiatparcacim|oemotoyedek|gknotoyedek|kornauto|zapask|parts77|sales24|abcp|parcageliyor|athousakis|autoline|franceavto|easyparts|ucuzler|ucaotomotiv|asryedek|4filtre|exist\\.ru|emex|zzap|autodoc\\.ru|exist|benimopel|opelline|vdopel|genelyedek|yeniotoparca|zapchast|autoopt|mobizap|plentycar|4garage|allparts|parautoparts|otoerdem|demiroto|copelli|zekkert|stellox/i;
   const norm=s=>(s||'').toUpperCase().replace(/[^A-Z0-9]/g,'');
   const dec=s=>s.replace(/&quot;/g,'"').replace(/&amp;/g,'&');
   const pick=(seg,k)=>{const m=seg.match(new RegExp('"'+k+'":"([^"]*)"'));return m?m[1]:'';};
