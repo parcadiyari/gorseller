@@ -16,7 +16,11 @@ for s in range(0,len(new),48):
         t=Image.open(R+'foto-v2/'+o[i]+'.jpg').convert('RGB');t.thumbnail((198,198))
         x,y=(j%8)*200,(j//8)*200;im.paste(t,(x+1,y+1));d.rectangle([x,y,x+44,y+16],fill='red');d.text((x+3,y+3),str(i),fill='white');d.rectangle([x,y,x+199,y+199],outline='#aaa')
     im.save(f'{rv}/n_{s//48}.jpg',quality=85)
-N=[l.rstrip('\n').split('\t') for l in open(rv+'/isim.tsv')]
+N=[]
+for l in open(rv+'/isim.tsv'):
+    x=l.rstrip('\n').split('\t')
+    if N and (len(x)<3 or not x[0].isdigit()): N[-1][2]+=' '+' '.join(x).strip()
+    else: N.append(x)
 with open(rv+'/n_isim.txt','w') as f:
     for s in range(0,len(new),48):
         f.write(f'## n_{s//48}\n'+' | '.join(f'{i} {N[i][1]} {N[i][2][:28]}' for i in new[s:s+48])+'\n')
