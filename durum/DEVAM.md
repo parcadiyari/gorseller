@@ -32,3 +32,4 @@
 - yandex3: 1418 yeni urun / 2826 aday -> foto-isle calisiyor (liste foto-v2/yandex3_liste.json). Sonra: hazirla.py yandex3 /tmp/rv19 -> 4 ilk-tur + 3 ikinci-tur inceleme + bar2.py (katalog bari) -> kabul.py -> foto_v2_yukle_36_yandex3.xlsx -> ikas (yalniz Gorsel URL).
 - Yandex sekmesine artik gerek yok. Yeni PC'de gerekenler: Chrome + Claude eklentisi bagli, ikas'a giris (dmcyedekparca.myikas.com).
 - Sirada: Bing+Yandex'te bulunamayan urunler icin Google denemesi.
+- 14.11 aksam: yandex3 incelemesi BITTI -> 1451 fotodan 534 kabul, 400 urun. Excel: /home/claude/yukle/foto_v2_yukle_36_yandex3.xlsx (kabul.py yeniden uretebilir: durum/yandex3_yuklenen.json). ikas importu BEKLIYOR (Chrome baglanmadi). Import sonrasi: API ile dogrula, foto-v2/yandex3_liste.json -> _arsiv.
