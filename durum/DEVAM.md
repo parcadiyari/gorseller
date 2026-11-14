@@ -26,3 +26,9 @@
 - Tarayici durumu her 2 dk localStorage['__YSAVE'] (yandex.com.tr) icine kaydediliyor; Chrome kapanirsa oradan devam: f(SV.i) + Object.assign(__Y.res,SV.res).
 - BLOCK tekrar genisletildi (benimopel, opelline, vdopel, zapchast, ...), commit aec517f; tarama 3360'tan devam.
 - PSA katalog cizimleri altindaki gri "CITROEN PEUGEOT - xxx N-01" bari -> arka_plan (red).
+
+## 14.11.2026 17:40 - PC degisimi hazirligi
+- Yandex taramasi BITTI: 7251/7251, 2662 urunde aday. Tum sonuc: durum/yandex_sonuc_final.json ({gid:[url]}).
+- yandex3: 1418 yeni urun / 2826 aday -> foto-isle calisiyor (liste foto-v2/yandex3_liste.json). Sonra: hazirla.py yandex3 /tmp/rv19 -> 4 ilk-tur + 3 ikinci-tur inceleme + bar2.py (katalog bari) -> kabul.py -> foto_v2_yukle_36_yandex3.xlsx -> ikas (yalniz Gorsel URL).
+- Yandex sekmesine artik gerek yok. Yeni PC'de gerekenler: Chrome + Claude eklentisi bagli, ikas'a giris (dmcyedekparca.myikas.com).
+- Sirada: Bing+Yandex'te bulunamayan urunler icin Google denemesi.
