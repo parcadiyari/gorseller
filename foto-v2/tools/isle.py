@@ -1,4 +1,4 @@
-import json, sys, os, io, time, urllib.request, urllib.error
+import json, sys, os, io, time, signal, urllib.request, urllib.error
 import numpy as np
 from PIL import Image
 from scipy import ndimage
@@ -87,7 +87,11 @@ def olc(src):
     w, fg = whiten(src)
     return [round(kb, 3), round(float(fg.mean()), 3)]
 
+class _Zaman(Exception): pass
+def _alarm(*a): raise _Zaman("zaman_asimi")
+
 def main(liste, outdir):
+    signal.signal(signal.SIGALRM, _alarm)
     os.makedirs(outdir, exist_ok=True)
     logo = load_logo()
     logo.save(os.path.join(os.path.dirname(liste), "tools", "logo.png"))
@@ -96,11 +100,13 @@ def main(liste, outdir):
         out = os.path.join(outdir, gid + ".jpg")
         if os.path.exists(out): continue
         try:
+            signal.alarm(90)
             raw = get(sha if (sha.startswith(("http","/")) or os.path.exists(sha)) else SRC.format(sha))
             if os.environ.get("SAVE_SRC"):
                 os.makedirs(os.path.join(outdir, "_src"), exist_ok=True)
                 open(os.path.join(outdir, "_src", gid + ".jpg"), "wb").write(raw)
             src = Image.open(io.BytesIO(raw))
+            if max(src.size) > 2000: src.thumbnail((2000, 2000))
             if os.path.basename(liste).startswith('olc'):
                 rapor.append([gid, "olc", src.size, olc(src)]); continue
             if 'katsiz' in os.path.basename(liste) and kenar(src) < 0.2:
@@ -129,6 +135,8 @@ def main(liste, outdir):
             rapor.append([gid, "ok", src.size, round(sc, 2)])
         except Exception as e:
             rapor.append([gid, "hata", str(e)[:120]])
+        finally:
+            signal.alarm(0)
     json.dump(rapor, open(os.path.join(outdir, "_rapor.json"), "w"), indent=0)
     print(sum(1 for r in rapor if r[1] == "ok"), "/", len(rapor))
 
