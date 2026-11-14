@@ -19,3 +19,11 @@
 - Yeniden başlatma: dahili tarayıcıda bing.com/images/search sekmesi aç, katsiz_worker.js'i fetch edip Worker olarak başlat (__KSTART(5213, <sha>) fonksiyonu; worker kaynağı durum/webtools/katsiz_worker.js; Q = durum/katsiz_q.json).
 - İnceleme: hazirla_k.py → newsheets.py (önceki partilerde görülen URL'leri ayıklar) → gözle inceleme → red_A.json → kabul.py.
 - ikas yükleme: Chrome (kullanıcı orada girişli) → Ürünler → İçe Aktar → Ürünler → yalnızca Görsel URL ("1 bilgi seçili") → İçe Aktar → gizli dosya alanına file_upload (dosya /home/claude altında olmalı). Düğmeleri find ile ref üzerinden tıkla (koordinatla değil).
+
+## PC DEĞİŞİMİ – 14.11.2026 17:35 (TR)
+- Bing taraması DURDURULDU. Kaldığı yer: katsiz_q.json index **20605**. Yeni PC'de __KSTART(<wi>, sha) ile devam.
+- Kaydedilmemiş tarama sonuçları: durum/katsiz_bekleyen_sonuc.json → bunu bir sonraki partiye (tamkatsizdusuk18) ekle (liste_k.py ile).
+- Yüklenen toplam: 4904 ürün (parti 1–17 bitti, hepsi ikas'a yüklendi ve doğrulandı).
+- Reddedilenler: durum/katsiz_bing_red.json (Yandex/Google denemesi için).
+- Not: Kalan sorguların çoğu kodsuz OE-PSA; Bing kabul oranı %32'ye düştü. Kullanıcıya alternatif kaynak/atlamayı sordum.
+- Ön eleme aktif (isle.py, kenar beyaz <0.2), işlemde 90 sn zaman aşımı var.
