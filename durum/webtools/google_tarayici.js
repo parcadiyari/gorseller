@@ -15,6 +15,7 @@
       try{
         const r=await fetch('https://www.google.com/search?udm=2&hl=tr&q='+encodeURIComponent(q),{credentials:'include'});
         const t=await r.text();
+        if(/enablejs/.test(t)&&t.indexOf('"2003":[null')<0){postMessage({captcha:true,i:i});return;}
         if(/\\/sorry\\//.test(r.url)||/unusual traffic|captcha-form|g-recaptcha/i.test(t.slice(0,200000))&&t.indexOf('"2003":[null')<0){postMessage({captcha:true,i:i});return;}
         let m;RX.lastIndex=0;
         while((m=RX.exec(t))&&hits.length<4){
@@ -31,7 +32,7 @@
         postMessage({i:i,g:g,hits:hits});
       }catch(err){postMessage({i:i,g:g,err:String(err)});await new Promise(r=>setTimeout(r,30000));continue;}
       i++;
-      await new Promise(r=>setTimeout(r,6000+Math.random()*5000));
+      await new Promise(r=>setTimeout(r,50000+Math.random()*25000));
     }
     postMessage({done:true,i:i});
   };`;
