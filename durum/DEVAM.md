@@ -33,3 +33,5 @@
 - Yandex sekmesine artik gerek yok. Yeni PC'de gerekenler: Chrome + Claude eklentisi bagli, ikas'a giris (dmcyedekparca.myikas.com).
 - Sirada: Bing+Yandex'te bulunamayan urunler icin Google denemesi.
 - 14.11 aksam: yandex3 incelemesi BITTI -> 1451 fotodan 534 kabul, 400 urun. Excel: /home/claude/yukle/foto_v2_yukle_36_yandex3.xlsx (kabul.py yeniden uretebilir: durum/yandex3_yuklenen.json). ikas importu BEKLIYOR (Chrome baglanmadi). Import sonrasi: API ile dogrula, foto-v2/yandex3_liste.json -> _arsiv.
+- 16.11: yandex3 -> 400 urun ikas'a yuklendi ve dogrulandi (10/10). Toplam: 3728.
+- 16.11: GOOGLE taramasi basladi. Kuyruk durum/google_q.json (6369 urun = yandex_q - yandex1/2/3 yuklenenler; marka kisaltmalari tam marka adina cevrildi). Kod durum/webtools/google_tarayici.js (google.com sekmesinde worker; window.__G.res, localStorage '__GSAVE' her 2 dk; postMessage 'GGET' -> {gdata,i}). Captcha cikarsa durur (__G.captcha) -> kullaniciya sor, asla gecme.
