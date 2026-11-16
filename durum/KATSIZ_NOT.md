@@ -35,6 +35,6 @@
 
 ## PC değişimi (16.11 18:47)
 - Bing taraması **23252**'de durduruldu (katsiz_q toplam 63381). Yeni PC'de `__KSTART(23252, <güncel sha>)` ile devam.
-- `durum/katsiz_bekleyen_sonuc.json` = 491 bekleyen sonuç (henüz partiye dönmedi). Yeni PC'de ilk iş: bunu /tmp/knN.json yap → liste_k.py ile **tamkatsizdusuk19** → dispatch → inceleme → yükleme; sonra dosyayı `{}` yap.
+- 491 bekleyen sonuç tamkatsizdusuk19 partisine dönüştürüldü (dispatch edildi). Sonuç gelince incele + yükle.
 - Yüklenen toplam: **5237** (parti 1–18 tamam, 18 doğrulandı).
 - Red listesi: 3826 ürün; ana tarama bitince `<SKU> citroen` ikinci tur (yukarıdaki plan).
