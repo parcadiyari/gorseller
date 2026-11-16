@@ -6,7 +6,7 @@
   const norm=s=>(s||'').toUpperCase().replace(/[^A-Z0-9]/g,'');
   const un=s=>s.replace(/\\\\u003d/g,'=').replace(/\\\\u0026/g,'&');
   const RX=/\\{title:"([^"]*)",url:"([^"]*)"[\\s\\S]{0,2500}?source:"([^"]*)"[\\s\\S]{0,900}?properties:\\{url:"([^"]+)"/g;
-  let Q,i,stop=false;
+  let Q,i,stop=false,bk=0;
   onmessage=async e=>{
     if(e.data.stop){stop=true;return;}
     Q=e.data.Q;i=e.data.start;
@@ -15,7 +15,9 @@
       try{
         const r=await fetch('https://search.brave.com/images?q='+encodeURIComponent(q),{credentials:'include'});
         const t=await r.text();
-        if(/captcha|challenge/i.test(r.url)||r.status==429||(t.indexOf('results:[')<0&&t.indexOf('properties:{url')<0)){postMessage({captcha:true,i:i,st:r.status});return;}
+        if(/captcha|challenge/i.test(r.url)){postMessage({captcha:true,i:i,st:r.status});return;}
+        if(r.status==429||(t.indexOf('results:[')<0&&t.indexOf('properties:{url')<0)){bk=(bk||0)+1;if(bk>3){postMessage({captcha:true,i:i,st:r.status});return;}await new Promise(z=>setTimeout(z,600000));continue;}
+        bk=0;
         let m;RX.lastIndex=0;
         while((m=RX.exec(t))&&hits.length<4){
           const ti=m[1],pg=m[2],u=m[4];
