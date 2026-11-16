@@ -38,3 +38,8 @@
 - 491 bekleyen sonuç tamkatsizdusuk19 partisine dönüştürüldü (dispatch edildi). Sonuç gelince incele + yükle.
 - Yüklenen toplam: **5237** (parti 1–18 tamam, 18 doğrulandı).
 - Red listesi: 3826 ürün; ana tarama bitince `<SKU> citroen` ikinci tur (yukarıdaki plan).
+
+## Chrome'da sonuç çekme (16.11)
+- Tarama artık kullanıcının Chrome'unda (claude-in-chrome). javascript_tool çıktısı ~1000 karakterde kesiliyor ve sorgu (?) içeren URL'leri engelliyor.
+- Yöntem: sorgusuz URL'leri `__KO` olarak süz, sayfaya `<pre id=kn>` içine `KNSTART…KNEND` yaz, 60k 'x' dolgu ekle, `get_page_text` → çıktı dosyaya kaydedilir (ilk 50k karakter). ~150 ürünlük dilimlerle al.
+- Sekme arka planda kalırsa hız dakikada ~1'e düşer.
