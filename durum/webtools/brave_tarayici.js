@@ -13,7 +13,7 @@
     while(i<Q.length&&!stop){
       const [g,q,code,marka]=Q[i];let hits=[];
       try{
-        const r=await fetch('https://search.brave.com/images?q='+encodeURIComponent(q),{credentials:'include'});
+        const r=await fetch('https://search.brave.com/images?q='+encodeURIComponent(q),{credentials:'include',signal:AbortSignal.timeout(60000)});
         const t=await r.text();
         if(/captcha|challenge/i.test(r.url)){postMessage({captcha:true,i:i,st:r.status});return;}
         if(r.status==429||(t.indexOf('results:[')<0&&t.indexOf('properties:{url')<0)){bk=(bk||0)+1;if(bk>3){postMessage({captcha:true,i:i,st:r.status});return;}await new Promise(z=>setTimeout(z,600000));continue;}

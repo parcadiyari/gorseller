@@ -13,7 +13,7 @@
     while(i<Q.length&&!stop){
       const [g,q,code,marka]=Q[i];let hits=[];
       try{
-        const r=await fetch('https://www.google.com/search?udm=2&hl=tr&q='+encodeURIComponent(q),{credentials:'include'});
+        const r=await fetch('https://www.google.com/search?udm=2&hl=tr&q='+encodeURIComponent(q),{credentials:'include',signal:AbortSignal.timeout(60000)});
         const t=await r.text();
         if(/enablejs/.test(t)&&t.indexOf('"2003":[null')<0){postMessage({captcha:true,i:i});return;}
         if(/\\/sorry\\//.test(r.url)||/unusual traffic|captcha-form|g-recaptcha/i.test(t.slice(0,200000))&&t.indexOf('"2003":[null')<0){postMessage({captcha:true,i:i});return;}
