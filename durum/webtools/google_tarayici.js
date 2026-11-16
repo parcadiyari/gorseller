@@ -22,7 +22,8 @@
           const meta=pg+' '+ti;
           if(!/^https?:/.test(u)||BLOCK.test(u)||BLOCK.test(meta))continue;
           if(Math.max(w,h)<250)continue;
-          if(!norm(u+' '+meta).includes(code))continue;
+          if(!norm(u+' '+ti).includes(code))continue;
+          if(/logo|placeholder|hazirlan|no-?image|noimage|nophoto|default|banner|arac-gorsel|marka-|brand|icon|sprite/i.test(u))continue;
           const bw=BRAND[marka]||new RegExp(marka.split(/[ .-]/)[0],'i');
           if(code.length<8&&!bw.test(u+' '+meta))continue;
           if(!hits.includes(u))hits.push(u);
