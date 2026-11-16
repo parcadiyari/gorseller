@@ -27,3 +27,8 @@
 - Reddedilenler: durum/katsiz_bing_red.json (Yandex/Google denemesi için).
 - Not: Kalan sorguların çoğu kodsuz OE-PSA; Bing kabul oranı %32'ye düştü. Kullanıcıya alternatif kaynak/atlamayı sordum.
 - Ön eleme aktif (isle.py, kenar beyaz <0.2), işlemde 90 sn zaman aşımı var.
+
+## Plan: red listesi ikinci tur (kullanıcı onayladı 16.11)
+- Ana Bing taraması (katsiz_q, 63381) bitince `katsiz_bing_red.json` içindeki OE-PSA ürünler için sorgu `<SKU> citroen` ile tekrar aranacak (ilk tur `<SKU> peugeot` idi).
+- Aynı inceleme kuralları; yeni partiler `tamkatsizcit<N>` adıyla.
+- Muadil marka (Valeo/Bosch vb.) fotoğrafı OE-PSA ürüne KULLANILMAZ.
