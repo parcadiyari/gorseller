@@ -43,3 +43,7 @@
 - Tarama artık kullanıcının Chrome'unda (claude-in-chrome). javascript_tool çıktısı ~1000 karakterde kesiliyor ve sorgu (?) içeren URL'leri engelliyor.
 - Yöntem: sorgusuz URL'leri `__KO` olarak süz, sayfaya `<pre id=kn>` içine `KNSTART…KNEND` yaz, 60k 'x' dolgu ekle, `get_page_text` → çıktı dosyaya kaydedilir (ilk 50k karakter). ~150 ürünlük dilimlerle al.
 - Sekme arka planda kalırsa hız dakikada ~1'e düşer.
+
+## Chrome bağlantısı koparsa (17.11 16:45)
+- Eklenti yeniden bağlanınca sekme grubu kayboldu; eski Bing sekmesine erişilemedi (kaydedilmemiş sonuçlar kayboldu).
+- Yeni sekmede bing.com/images açıp __KSTART / __KS yeniden tanımlandı: Q ve worker raw.githubusercontent.com/<sha>/durum/ altından fetch edilir, Blob Worker; onmessage → __W.res[g]=hits, blocked/done/err alanları. Tarama 35233'ten yeniden başlatıldı.
