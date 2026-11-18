@@ -44,3 +44,4 @@
 - yandex3 dahil toplam 3728 urun yuklendi. Kalan fotosuz: google_q.json (6369).
 - 16.11 19:40 (PC DESKTOP-28RGV7U): Brave 160'tan devam (sekme search.brave.com + yardimci parcadiyari.com/robots.txt). GOOGLE ayrica ayni PC'de yavas modda (urun basina 50-75 sn) 2000'den (OE-PSA bolumu) basladi, sekme google.com. google1 (24 urun) incelendi -> sadece 1 kabul (foto_v2_yukle_37_google1.xlsx, henuz yuklenmedi; Google/Brave sonuclari cogunlukla genel/yanlis gorsel).
 - Denenen diger motorlar: DDG/Ecosia/Yahoo/Startpage = Bing altyapisi (yeni sonuc yok), Qwant TR'de kapali, Baidu sonuc yok, Seznam ikinci el ilan.
+- 18.11: MAIS listesi (15 yeni urun) -> Google gorsel + foto-isle (mais1..mais4) -> hepsine ikas urun sayfasindan ELLE foto eklendi (Excel import kuyrukta islenmedi). 15/15 dogrulandi, fiyatlar degismedi.
