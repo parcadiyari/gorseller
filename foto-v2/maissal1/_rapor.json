@@ -467,7 +467,7 @@
 [
 "a2c50782-0a4d-4604-a436-bcf4b38adacc_1",
 "hata",
-"cannot identify image file <_io.BytesIO object at 0x70747d687e70>"
+"cannot identify image file <_io.BytesIO object at 0x732fbc587880>"
 ],
 [
 "a2c50782-0a4d-4604-a436-bcf4b38adacc_2",
@@ -485,12 +485,8 @@
 ],
 [
 "1815d4c0-260f-44b8-92fe-656cc0a74c03_1",
-"ok",
-[
-1000,
-1000
-],
-1.09
+"hata",
+"<urlopen error timed out>"
 ],
 [
 "1815d4c0-260f-44b8-92fe-656cc0a74c03_2",
@@ -535,12 +531,8 @@
 ],
 [
 "02154670-815a-4946-a520-4c24efeb99cf_1",
-"ok",
-[
-550,
-550
-],
-2.02
+"hata",
+"<urlopen error timed out>"
 ],
 [
 "02154670-815a-4946-a520-4c24efeb99cf_2",
@@ -563,6 +555,6 @@
 [
 "396e2bb9-f65b-4286-a86d-ff2ef2a37be5_1",
 "hata",
-"cannot identify image file <_io.BytesIO object at 0x70748bc47920>"
+"cannot identify image file <_io.BytesIO object at 0x732fbc587c90>"
 ]
 ]
