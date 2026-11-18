@@ -47,3 +47,11 @@
 ## Chrome bağlantısı koparsa (17.11 16:45)
 - Eklenti yeniden bağlanınca sekme grubu kayboldu; eski Bing sekmesine erişilemedi (kaydedilmemiş sonuçlar kayboldu).
 - Yeni sekmede bing.com/images açıp __KSTART / __KS yeniden tanımlandı: Q ve worker raw.githubusercontent.com/<sha>/durum/ altından fetch edilir, Blob Worker; onmessage → __W.res[g]=hits, blocked/done/err alanları. Tarama 35233'ten yeniden başlatıldı.
+
+## 18 Kasım 2026 23:20 — kategorisiz tarama DURDURULDU (kullanıcı kararı)
+- Son konum: katsiz_q.json (sha 025c9c00) wi=47766. Devam edilecekse __KSTART(47766,'025c9c00cd54cda2a71edb4e14e43a5291709e49d').
+- Kuyruktan çıkarılanlar: durum/katsiz_atlanan.json (6496 belirsiz isim + 594 ufak parça).
+- 2716 ürünün kötü fotoğrafı (ikinci el/şema/filigran/belirsiz isim) logo ile değiştirildi: durum/logo_yerlesen.json, logo foto-v2/_logo/parcadiyari_logo.jpg.
+- Toplam Bing ile yüklenen: 9129 (parti 1–53).
+- Sıradaki iş: kategorili ürünlerde fotoğrafsız/kötü fotoğraflıları bulmak (ikas tam dışa aktarma bekleniyor).
+- Not: ikas içe aktarmada Satış Fiyatı sütunu varsa dolu olmalı; yoksa sütunu tamamen çıkar (Ürün Grup ID, Varyant ID, İsim, Resim URL yeterli).
