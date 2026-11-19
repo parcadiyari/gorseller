@@ -1,4 +1,8 @@
-# Kategorili ürün foto taraması – devir notu (2026-11-19 09:30 TR)
+# Kategorili ürün foto taraması – TAMAMLANDI (2026-11-19 10:30 TR)
+
+**Sonuç: katli1–10 ile toplam 432 kategorili ürüne foto yüklendi. Kuyruk ve tüm partiler bitti.**
+
+(Aşağısı eski devir notu)
 
 ## Durum
 - Bing kuyruğu `durum/katli_q.json` (5112 arama) **bitti** (wi=5112). Tarayıcıda yeniden tarama gerekmiyor.
