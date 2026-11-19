@@ -59,3 +59,6 @@
 ## 19.11.2026 10:30 TR — kategorisiz tarama YENİDEN BAŞLADI
 - Yeni PC Chrome (Browser 1), Bing sekmesinde __KSTART(47766, <HEAD sha>) ile devam. (Yukarıdaki 025c9c00… sha'sı eksik yazılmıştı: doğrusu 025c9c00c54cda2a71edb4e14e43a5291709e49d.)
 - Sıradaki parti adı: tamkatsizdusuk54. Kategorili tarama (katli1–10) bitti: 432 ürün.
+
+## 19.11.2026 11:43 TR — kategorisiz tarama TEKRAR DURDURULDU (kullanıcı: "onları yapmayalım")
+- Son konum wi=48341. tamkatsizdusuk54 (95 gid) işlemeye gönderilmişti; incelenmeyecek/yüklenmeyecek.
