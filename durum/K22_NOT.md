@@ -11,3 +11,7 @@
 - Worker: durum/webtools/autodoc_k22.js — Chrome'da autodoc.co.uk sekmesi (Cloudflare geçildikten sonra), durum __A.
 - Görsel URL'leri cdn.autodoc.de/thumb?id=…&m=0 (sorgulu). Çekerken ? & = → __Q__ __A__ __E__ olarak kodlanır; python'da geri çevirip liste_k22.py'ye ver.
 - Partiler: k22aN. OE-PSA/OPAR ürünler Autodoc'ta aranmaz (muadil marka fotosu yasak).
+
+## 19.11 17:25 TR değişiklik
+- Google captcha'ya düştü (wi=70); sonuçları (37 gid) /tmp/k22g_res.json'a alındı → bir sonraki Yandex partisine eklenecek.
+- Google sekmesi (345850203) artık 2. Yandex ajanı: yandex.com.tr/robots.txt, kuyruk durum/yandex_q_k22b.json (google_q_k22[70:], 2132 sorgu), 6–9 sn, durum __Y2 (sha 9cea5bb…, __Y→__Y2 replace ile eval).
