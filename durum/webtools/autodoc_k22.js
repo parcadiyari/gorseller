@@ -10,7 +10,7 @@
     while(i<Q.length&&!stop){
       const [g,q,code,brand]=Q[i];let hits=[];
       try{
-        const r=await fetch('/spares-search?keyword='+encodeURIComponent(q),{credentials:'include'});
+        const r=await fetch('https://www.autodoc.co.uk/spares-search?keyword='+encodeURIComponent(q),{credentials:'include'});
         const t=await r.text();
         if(r.status!==200||(/challenge-platform|cf-chl|Just a moment|Bir dakika/i.test(t.slice(0,4000))&&t.indexOf('spares')<0)){postMessage({captcha:true,i:i,st:r.status});return;}
         const re=/<img[^>]*>/g;let m;
