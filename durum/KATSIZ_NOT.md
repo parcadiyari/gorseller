@@ -55,3 +55,7 @@
 - Toplam Bing ile yüklenen: 9129 (parti 1–53).
 - Sıradaki iş: kategorili ürünlerde fotoğrafsız/kötü fotoğraflıları bulmak (ikas tam dışa aktarma bekleniyor).
 - Not: ikas içe aktarmada Satış Fiyatı sütunu varsa dolu olmalı; yoksa sütunu tamamen çıkar (Ürün Grup ID, Varyant ID, İsim, Resim URL yeterli).
+
+## 19.11.2026 10:30 TR — kategorisiz tarama YENİDEN BAŞLADI
+- Yeni PC Chrome (Browser 1), Bing sekmesinde __KSTART(47766, <HEAD sha>) ile devam. (Yukarıdaki 025c9c00… sha'sı eksik yazılmıştı: doğrusu 025c9c00c54cda2a71edb4e14e43a5291709e49d.)
+- Sıradaki parti adı: tamkatsizdusuk54. Kategorili tarama (katli1–10) bitti: 432 ürün.
