@@ -21,3 +21,4 @@
 - Yeniden başlatma: Y1 → __KSTART benzeri: yandex_k22.js f(1700) ; Y2 → yandex_q_k22b f(40). Yüklenen k22 toplam: 156 (y1 42, y2 59, y3 44, a1 11).
 
 - 21.11: k22y4 yüklendi (48). k22 toplam 204. k22y5 dispatch (162 gid/330 img). Y1 k22b wi1120, Y2 wi537/1100.
+- 21.11 15:20: k22y5 yüklendi (83). k22 toplam 287. Y1 wi1426 n60, Y2 wi747 n77.
