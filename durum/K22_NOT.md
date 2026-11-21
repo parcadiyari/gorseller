@@ -19,3 +19,5 @@
 ## 19.11 19:11 TR — Chrome bağlantısı koptu
 - Son bilinen: Y1 (yandex_q_k22) wi≈1751/2194, Y2 (yandex_q_k22b) wi≈47/2132. Bekleyen (yüklenmemiş) sonuçlar sekmelerdeydi, kaybolmuş olabilir.
 - Yeniden başlatma: Y1 → __KSTART benzeri: yandex_k22.js f(1700) ; Y2 → yandex_q_k22b f(40). Yüklenen k22 toplam: 156 (y1 42, y2 59, y3 44, a1 11).
+
+- 21.11: k22y4 yüklendi (48). k22 toplam 204. k22y5 dispatch (162 gid/330 img). Y1 k22b wi1120, Y2 wi537/1100.
