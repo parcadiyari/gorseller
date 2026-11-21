@@ -22,3 +22,8 @@
 
 - 21.11: k22y4 yüklendi (48). k22 toplam 204. k22y5 dispatch (162 gid/330 img). Y1 k22b wi1120, Y2 wi537/1100.
 - 21.11 15:20: k22y5 yüklendi (83). k22 toplam 287. Y1 wi1426 n60, Y2 wi747 n77.
+- 21.11 19:10 PC DEĞİŞİMİ: k22y6 (261 gid/464 img) dispatch edildi, incelenmedi.
+  Taramadaki son sonuçlar durum/k22_bekleyen.json'a kaydedildi (bekleyen, listeye girmedi).
+  Y2 bitti (k22b 0-1100). Y1 k22b wi 2034/2132 → kalan: yandex_q_k22b.json [2034:].
+  Yeni PC: yandex.com.tr/robots.txt aç, yandex_k22.js (sha 9cea5bb) k22b ile f(2034) başlat.
+  Bitince: bekleyen + yeni sonuçlar → liste_k22.py → k22y7. Sonra son rapor (fotosuz kalanlar).
