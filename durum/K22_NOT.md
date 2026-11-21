@@ -29,3 +29,4 @@
   Bitince: bekleyen + yeni sonuçlar → liste_k22.py → k22y7. Sonra son rapor (fotosuz kalanlar).
 - k22y6 incelendi: 51 kabul, k22y6.xlsx hazır, ikas yüklendi 19:20 (toast görülmedi, dialog normal kapandı — kontrol et). k22 toplam 338.
 - Y1 sekmesi ikas için kullanıldı; Y1 durdu (wi 2034). Kalan k22b[2034:] yeni PC de.
+- 21.11 21:55: yeni PC (Browser 1 Windows). k22y6 ikas doğrulandı (k22 toplam 338). Y1 k22b bitti. bekleyen+son 39 → k22y7 dispatch. Yandex kuyrukları BİTTİ.
