@@ -27,4 +27,5 @@
   Y2 bitti (k22b 0-1100). Y1 k22b wi 2034/2132 → kalan: yandex_q_k22b.json [2034:].
   Yeni PC: yandex.com.tr/robots.txt aç, yandex_k22.js (sha 9cea5bb) k22b ile f(2034) başlat.
   Bitince: bekleyen + yeni sonuçlar → liste_k22.py → k22y7. Sonra son rapor (fotosuz kalanlar).
-- k22y6 incelendi: 51 kabul, k22y6.xlsx hazır, ikas yüklemesi YAPILMADI (PC değişimi). Yeni PC bağlanınca yükle.
+- k22y6 incelendi: 51 kabul, k22y6.xlsx hazır, ikas yüklendi 19:20 (toast görülmedi, dialog normal kapandı — kontrol et). k22 toplam 338.
+- Y1 sekmesi ikas için kullanıldı; Y1 durdu (wi 2034). Kalan k22b[2034:] yeni PC de.
