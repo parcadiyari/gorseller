@@ -31,3 +31,4 @@
 - Y1 sekmesi ikas için kullanıldı; Y1 durdu (wi 2034). Kalan k22b[2034:] yeni PC de.
 - 21.11 21:55: yeni PC (Browser 1 Windows). k22y6 ikas doğrulandı (k22 toplam 338). Y1 k22b bitti. bekleyen+son 39 → k22y7 dispatch. Yandex kuyrukları BİTTİ.
 - 21.11 22:45: k22y7 ikas doğrulandı (58). k22 BİTTİ: 392 ürüne foto, 3159 fotosuz (k22_fotosuz_kalanlar.xlsx kullanıcıya verildi).
+- 21.11 23:20: Kalan 3159 fotosuz ürüne logo yüklendi (logo1-3, Görsel URL + Etiketler). Etiket LOGOLU-GORSEL eklendi, eski etiketler korundu. Doğrulandı. Önceki 2715 logo ürününde bu etiket YOK.
