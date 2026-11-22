@@ -7,3 +7,4 @@
 - vk_ara.json: 82 VK-sınıflı ama kayış olmayan ürün (emniyet kemeri, alet vb.) — kapsam dışı, dokunulmadı.
 - Arama: durum/yandex_q_trg.json (604 ürün/805 sorgu: TS/TSD/TR/TD/VS/VR). Chrome Y1 [0,403), Y2 [403,805).
 - 38 ürün klasikV (tek V dişli kayış görseli) — ayrı kontrol.
+- 22.11 18:25: trga1+2 incelendi, 93 ürüne doğru görsel yüklendi (doğrulandı). Kalan 511 set/rulman ürünü: /home/claude/triger_vkayis_gorseli_bulunamayan.xlsx
