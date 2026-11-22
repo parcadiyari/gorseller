@@ -11,3 +11,4 @@
 - 22.11 22:58: Google Görseller turu başladı: durum/google_q_trg.json (511 ürün/674 sorgu), Chrome tab google.com/robots.txt, __G (sha adb7cc9). ~2 saat. Captcha olursa durur.
 - 22.11 23:45: Google captcha (28. sorgu, 16 sonuç window.__GO google sekmesinde). Kalan kuyruk durum/yandex_q_trg2.json (646) üç motorda: Yandex __Y (yavaş), Bing __W (bing.com/images/search sekmesi, katsiz_worker blob), Brave __B (search.brave.com/robots.txt, kuyruk TERS sırada). Hepsi bitince res birleştirilip trgb listesi yapılacak.
 - 23.11 00:55: 4 motor birleşti (Yandex 110, Bing 75, Google 16, Brave 16) = 163 ürün/297 görsel → trgb1 dispatch.
+- 23.11 01:50: trgb1 36 ürün yüklendi (doğrulandı). Set/rulman grubunda toplam 129 düzeldi. Kalan 475: /home/claude/triger_vkayis_gorseli_bulunamayan.xlsx (156 hâlâ yanıltıcı/kötü görselli).
