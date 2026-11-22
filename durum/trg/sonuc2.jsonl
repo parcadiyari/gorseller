@@ -1,0 +1,899 @@
+{"i": 0, "durum": "dogru", "gorunen": "kanallı V kayışı halka", "uygun": ["VK"]}
+{"i": 1, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 2, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 3, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 4, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 5, "durum": "kotu", "gorunen": "profil çizimi ve rulmanlar", "uygun": []}
+{"i": 6, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 7, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 8, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 9, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 10, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 11, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 12, "durum": "marka", "gorunen": "SKF VKMA set, rulman+kayış", "uygun": ["TS"]}
+{"i": 13, "durum": "marka", "gorunen": "Kamoka baskılı kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 14, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 15, "durum": "yanlis", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 16, "durum": "dogru", "gorunen": "avara rulmanı", "uygun": ["TR"]}
+{"i": 17, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 18, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 19, "durum": "dogru", "gorunen": "kayış ve gergi Dayco", "uygun": ["TS"]}
+{"i": 20, "durum": "yanlis", "gorunen": "kayış, gergi, devirdaim", "uygun": ["TSD"]}
+{"i": 21, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 22, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 23, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 24, "durum": "yanlis", "gorunen": "Kamoka kayış ve devirdaim", "uygun": ["TSD"]}
+{"i": 25, "durum": "dogru", "gorunen": "INA kayış rulman devirdaim", "uygun": ["TSD"]}
+{"i": 26, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 27, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 28, "durum": "marka", "gorunen": "SKF baskılı kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 29, "durum": "dogru", "gorunen": "gergi rulmanı PSA kutu", "uygun": ["TR"]}
+{"i": 30, "durum": "dogru", "gorunen": "rulman PSA kutusu", "uygun": ["TR"]}
+{"i": 31, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 32, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 33, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 34, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 35, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 36, "durum": "yanlis", "gorunen": "kayış, gergi, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 37, "durum": "dogru", "gorunen": "kayış ve gergi Dayco", "uygun": ["TS"]}
+{"i": 38, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 39, "durum": "yanlis", "gorunen": "kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 40, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 41, "durum": "dogru", "gorunen": "kayış, gergi, devirdaim", "uygun": ["TSD"]}
+{"i": 42, "durum": "dogru", "gorunen": "kayış, gergi, devirdaim", "uygun": ["TSD"]}
+{"i": 43, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 44, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 45, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 46, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 47, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 48, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 49, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 50, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 51, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 52, "durum": "dogru", "gorunen": "kayış, gergi, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 53, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 54, "durum": "dogru", "gorunen": "kayış ve rulmanlar Eurorepar", "uygun": ["TS"]}
+{"i": 55, "durum": "dogru", "gorunen": "kayış, dişli, rulman Dayco", "uygun": ["TS"]}
+{"i": 56, "durum": "kotu", "gorunen": "çok küçük set görseli", "uygun": []}
+{"i": 57, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 58, "durum": "dogru", "gorunen": "avara rulmanı", "uygun": ["TR"]}
+{"i": 59, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 60, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 61, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 62, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 63, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 64, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 65, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 66, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 67, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 68, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 69, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 70, "durum": "dogru", "gorunen": "kanallı kayış Eurorepar etiket", "uygun": ["VK"]}
+{"i": 71, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 72, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 73, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 74, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 75, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 76, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 77, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 78, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 79, "durum": "kotu", "gorunen": "kirli kahverengi plastik kapak", "uygun": []}
+{"i": 80, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 81, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 82, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 83, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 84, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 85, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 86, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 87, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 88, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 89, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 90, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 91, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 92, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 93, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 94, "durum": "dogru", "gorunen": "kanallı kayış Gates etiket", "uygun": ["VK"]}
+{"i": 95, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 96, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 97, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 98, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 99, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 100, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 101, "durum": "marka", "gorunen": "Kamoka baskılı triger kayışı", "uygun": ["TK"]}
+{"i": 102, "durum": "marka", "gorunen": "Dayco HT triger kayışı", "uygun": ["TK"]}
+{"i": 103, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 104, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 105, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 106, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 107, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 108, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 109, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 110, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 111, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 112, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 113, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 114, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 115, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 116, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 117, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 118, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 119, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 120, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 121, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 122, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 123, "durum": "yanlis", "gorunen": "Kamoka triger kayışı + 2 rulman", "uygun": ["TS"]}
+{"i": 124, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 125, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 126, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 127, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 128, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 129, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 130, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 131, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 132, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 133, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 134, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 135, "durum": "dogru", "gorunen": "kanallı kayış PSA poşette", "uygun": ["VK"]}
+{"i": 136, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 137, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 138, "durum": "marka", "gorunen": "yan sanayi baskılı 6PK kayış", "uygun": ["VK"]}
+{"i": 139, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 140, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 141, "durum": "dogru", "gorunen": "kanallı V kayışı Peugeot logo", "uygun": ["VK"]}
+{"i": 142, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 143, "durum": "dogru", "gorunen": "kayış, rulmanlar, gergi Dayco", "uygun": ["VS"]}
+{"i": 144, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 145, "durum": "dogru", "gorunen": "V kayış gergisi Dayco", "uygun": ["VR"]}
+{"i": 146, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 147, "durum": "dogru", "gorunen": "kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 148, "durum": "dogru", "gorunen": "yaylı gergi mekanizması", "uygun": ["VR"]}
+{"i": 149, "durum": "dogru", "gorunen": "yaylı gergi mekanizması", "uygun": ["VR"]}
+{"i": 150, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["VR"]}
+{"i": 151, "durum": "dogru", "gorunen": "rulman ve kapak", "uygun": ["VR"]}
+{"i": 152, "durum": "dogru", "gorunen": "kanallı kayış ve rulman Dayco", "uygun": ["VS"]}
+{"i": 153, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 154, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["VR"]}
+{"i": 155, "durum": "yanlis", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 156, "durum": "dogru", "gorunen": "iki rulman", "uygun": ["VR"]}
+{"i": 157, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 158, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 159, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 160, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 161, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 162, "durum": "dogru", "gorunen": "kanallı kayışlar ve rulmanlar", "uygun": ["VS"]}
+{"i": 163, "durum": "dogru", "gorunen": "rulman Dayco", "uygun": ["VR"]}
+{"i": 164, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 165, "durum": "kotu", "gorunen": "rulman ve ölçü çizimi INA", "uygun": []}
+{"i": 166, "durum": "dogru", "gorunen": "braketli rulman", "uygun": ["VR"]}
+{"i": 167, "durum": "dogru", "gorunen": "rulman Dayco", "uygun": ["VR"]}
+{"i": 168, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["VR"]}
+{"i": 169, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["VR"]}
+{"i": 170, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 171, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 172, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 173, "durum": "dogru", "gorunen": "kanallı rulman", "uygun": ["VR"]}
+{"i": 174, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 175, "durum": "dogru", "gorunen": "braketli rulman", "uygun": ["VR"]}
+{"i": 176, "durum": "yanlis", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 177, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 178, "durum": "dogru", "gorunen": "V kayış gergi BSG", "uygun": ["VR"]}
+{"i": 179, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 180, "durum": "dogru", "gorunen": "braketli rulman", "uygun": ["VR"]}
+{"i": 181, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 182, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 183, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 184, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 185, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 186, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 187, "durum": "dogru", "gorunen": "braketli rulman", "uygun": ["VR"]}
+{"i": 188, "durum": "dogru", "gorunen": "kanallı rulman", "uygun": ["VR"]}
+{"i": 189, "durum": "dogru", "gorunen": "rulman ve kapak", "uygun": ["VR"]}
+{"i": 190, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 191, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 192, "durum": "yanlis", "gorunen": "Dayco kutulu triger kayışı", "uygun": ["TK"]}
+{"i": 193, "durum": "dogru", "gorunen": "Dayco paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 194, "durum": "dogru", "gorunen": "Dayco paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 195, "durum": "dogru", "gorunen": "Dayco paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 196, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 197, "durum": "kotu", "gorunen": "Dayco kutu, başka dükkan logosu", "uygun": []}
+{"i": 198, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 199, "durum": "marka", "gorunen": "Kamoka etiketli tek V kayışı", "uygun": []}
+{"i": 200, "durum": "kotu", "gorunen": "COMING SOON araba görseli", "uygun": []}
+{"i": 201, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 202, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 203, "durum": "dogru", "gorunen": "Gates etiketli kanallı kayış", "uygun": ["VK"]}
+{"i": 204, "durum": "yanlis", "gorunen": "çentikli tek V kayışı etiketli", "uygun": []}
+{"i": 205, "durum": "dogru", "gorunen": "V kayış gergisi Dayco", "uygun": ["VR"]}
+{"i": 206, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 207, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 208, "durum": "kotu", "gorunen": "INA gergi ve ölçü çizimi", "uygun": []}
+{"i": 209, "durum": "dogru", "gorunen": "kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 210, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 211, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 212, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 213, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 214, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 215, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 216, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 217, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 218, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 219, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 220, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 221, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 222, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 223, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 224, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 225, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 226, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 227, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 228, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 229, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 230, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 231, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 232, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 233, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 234, "durum": "yanlis", "gorunen": "düz tek V kayışı", "uygun": []}
+{"i": 235, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 236, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 237, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 238, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 239, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 240, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 241, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 242, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 243, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 244, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 245, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 246, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 247, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 248, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 249, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 250, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 251, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 252, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 253, "durum": "marka", "gorunen": "SKF VKMA kodlu kayış+gergi", "uygun": ["VS"]}
+{"i": 254, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 255, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 256, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 257, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 258, "durum": "dogru", "gorunen": "kayış ve rulman Eurorepar", "uygun": ["TS"]}
+{"i": 259, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 260, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 261, "durum": "dogru", "gorunen": "kayış, rulman, dişli Dayco", "uygun": ["TS"]}
+{"i": 262, "durum": "yanlis", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 263, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 264, "durum": "dogru", "gorunen": "triger muhafaza kapağı", "uygun": ["TD"]}
+{"i": 265, "durum": "marka", "gorunen": "febi logolu kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 266, "durum": "dogru", "gorunen": "dişli gergi rulmanı", "uygun": ["TR"]}
+{"i": 267, "durum": "yanlis", "gorunen": "INA set devirdaimli katalog", "uygun": ["TSD"]}
+{"i": 268, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 269, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 270, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 271, "durum": "dogru", "gorunen": "kayış, rulmanlar, PSA kutu", "uygun": ["TS"]}
+{"i": 272, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 273, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 274, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 275, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 276, "durum": "kotu", "gorunen": "profil çizimi ve rulmanlar", "uygun": []}
+{"i": 277, "durum": "kotu", "gorunen": "rulman ölçü çizimi", "uygun": []}
+{"i": 278, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 279, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 280, "durum": "dogru", "gorunen": "gergi rulmanı Dayco", "uygun": ["TR"]}
+{"i": 281, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 282, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 283, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 284, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 285, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 286, "durum": "dogru", "gorunen": "gergi rulmanı Dayco", "uygun": ["TR"]}
+{"i": 287, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 288, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 289, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 290, "durum": "dogru", "gorunen": "rulman", "uygun": ["TR"]}
+{"i": 291, "durum": "dogru", "gorunen": "kayış, rulman, dişli Dayco", "uygun": ["TS"]}
+{"i": 292, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 293, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 294, "durum": "dogru", "gorunen": "INA kayış rulman devirdaim", "uygun": ["TSD"]}
+{"i": 295, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 296, "durum": "dogru", "gorunen": "iki rulman", "uygun": ["TR"]}
+{"i": 297, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 298, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 299, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 300, "durum": "yanlis", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 301, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 302, "durum": "dogru", "gorunen": "kayış, rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 303, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 304, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 305, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 306, "durum": "dogru", "gorunen": "Marelli paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 307, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 308, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 309, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 310, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 311, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 312, "durum": "yanlis", "gorunen": "çentikli tek V kayışı Bosch", "uygun": []}
+{"i": 313, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 314, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 315, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 316, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 317, "durum": "yanlis", "gorunen": "kanallı kayış + gergi kataloğu", "uygun": ["VS"]}
+{"i": 318, "durum": "dogru", "gorunen": "kanallı kayış ve rulmanlar febi", "uygun": ["VS"]}
+{"i": 319, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 320, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 321, "durum": "dogru", "gorunen": "Dayco kutulu triger kayışı", "uygun": ["TK"]}
+{"i": 322, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 323, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 324, "durum": "yanlis", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 325, "durum": "yanlis", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 326, "durum": "dogru", "gorunen": "Bosch paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 327, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 328, "durum": "kotu", "gorunen": "tek V kayışı Rusça tablo", "uygun": []}
+{"i": 329, "durum": "dogru", "gorunen": "ince V kayışı Bosch", "uygun": ["VK"]}
+{"i": 330, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 331, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 332, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 333, "durum": "dogru", "gorunen": "çentikli tek V (10A ürün)", "uygun": ["VK"]}
+{"i": 334, "durum": "dogru", "gorunen": "Dayco paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 335, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 336, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 337, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 338, "durum": "dogru", "gorunen": "kayış ve gergi", "uygun": ["TS"]}
+{"i": 339, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 340, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 341, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 342, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 343, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim, dişli", "uygun": ["TSD"]}
+{"i": 344, "durum": "dogru", "gorunen": "INA kayış rulman devirdaim", "uygun": ["TSD"]}
+{"i": 345, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 346, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 347, "durum": "yanlis", "gorunen": "kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 348, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 349, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 350, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 351, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 352, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 353, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 354, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 355, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 356, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 357, "durum": "marka", "gorunen": "Kamoka baskılı kayış ve rulman", "uygun": ["TS"]}
+{"i": 358, "durum": "dogru", "gorunen": "rulman PSA poşet", "uygun": ["TR"]}
+{"i": 359, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 360, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 361, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 362, "durum": "dogru", "gorunen": "kayış, rulmanlar, contalar", "uygun": ["TS"]}
+{"i": 363, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 364, "durum": "dogru", "gorunen": "kayış ve gergi", "uygun": ["TS"]}
+{"i": 365, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 366, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 367, "durum": "yanlis", "gorunen": "kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 368, "durum": "yanlis", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 369, "durum": "dogru", "gorunen": "rulman", "uygun": ["TR"]}
+{"i": 370, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 371, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 372, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 373, "durum": "dogru", "gorunen": "kayış ve gergi Dayco", "uygun": ["TS"]}
+{"i": 374, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 375, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 376, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 377, "durum": "dogru", "gorunen": "rulman Dayco", "uygun": ["TR"]}
+{"i": 378, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 379, "durum": "yanlis", "gorunen": "kayış, gergi, devirdaim", "uygun": ["TSD"]}
+{"i": 380, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 381, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 382, "durum": "dogru", "gorunen": "kayış ve rulman Eurorepar", "uygun": ["TS"]}
+{"i": 383, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 384, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 385, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 386, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 387, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 388, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 389, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 390, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 391, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 392, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 393, "durum": "marka", "gorunen": "Gates Micro-V kayış ve gergi", "uygun": ["VS"]}
+{"i": 394, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 395, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 396, "durum": "kotu", "gorunen": "devirdaim+conta seti, yabancı filigran", "uygun": []}
+{"i": 397, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 398, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Eurorepar", "uygun": ["VS"]}
+{"i": 399, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 400, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 401, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 402, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 403, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 404, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 405, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 406, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 407, "durum": "dogru", "gorunen": "Opar etiketli kanallı kayış", "uygun": ["VK"]}
+{"i": 408, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 409, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 410, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 411, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 412, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 413, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 414, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 415, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 416, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 417, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 418, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 419, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 420, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 421, "durum": "dogru", "gorunen": "kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 422, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["VR"]}
+{"i": 423, "durum": "dogru", "gorunen": "Gates kayış ve gergiler", "uygun": ["VS"]}
+{"i": 424, "durum": "yanlis", "gorunen": "kayış koruma kapağı (isimle uyumlu)", "uygun": []}
+{"i": 425, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 426, "durum": "dogru", "gorunen": "Schaeffler kutu kayış gergi", "uygun": ["VS"]}
+{"i": 427, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 428, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 429, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 430, "durum": "kotu", "gorunen": "gergi, yabancı filigran", "uygun": []}
+{"i": 431, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 432, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 433, "durum": "dogru", "gorunen": "küçük rulman görseli", "uygun": ["VR"]}
+{"i": 434, "durum": "dogru", "gorunen": "rulman ve cıvata", "uygun": ["VR"]}
+{"i": 435, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 436, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 437, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 438, "durum": "dogru", "gorunen": "kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 439, "durum": "dogru", "gorunen": "kanallı rulman", "uygun": ["VR"]}
+{"i": 440, "durum": "dogru", "gorunen": "kanallı kayışlar ve rulmanlar", "uygun": ["VS"]}
+{"i": 441, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 442, "durum": "dogru", "gorunen": "rulman ve kapak", "uygun": ["VR"]}
+{"i": 443, "durum": "dogru", "gorunen": "rulman ve cıvata", "uygun": ["VR"]}
+{"i": 444, "durum": "dogru", "gorunen": "rulman Dayco", "uygun": ["VR"]}
+{"i": 445, "durum": "kotu", "gorunen": "gergi ve ölçü çizimi", "uygun": []}
+{"i": 446, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 447, "durum": "yanlis", "gorunen": "sadece gergi mekanizması Dayco", "uygun": ["VR"]}
+{"i": 448, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 449, "durum": "dogru", "gorunen": "kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 450, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 451, "durum": "kotu", "gorunen": "rulman ölçü çizimi", "uygun": []}
+{"i": 452, "durum": "dogru", "gorunen": "rulman Dayco", "uygun": ["VR"]}
+{"i": 453, "durum": "dogru", "gorunen": "gergi rulmanı Dayco", "uygun": ["VR"]}
+{"i": 454, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 455, "durum": "dogru", "gorunen": "rulman Dayco", "uygun": ["VR"]}
+{"i": 456, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 457, "durum": "dogru", "gorunen": "gergi amortisörü", "uygun": ["VR"]}
+{"i": 458, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 459, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 460, "durum": "dogru", "gorunen": "braketli rulman", "uygun": ["VR"]}
+{"i": 461, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 462, "durum": "dogru", "gorunen": "kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 463, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 464, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 465, "durum": "dogru", "gorunen": "triger kayış muhafazası", "uygun": ["TD"]}
+{"i": 466, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 467, "durum": "dogru", "gorunen": "rulman ve cıvata", "uygun": ["VR"]}
+{"i": 468, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 469, "durum": "yanlis", "gorunen": "Eurorepar kayış ve rulmanlar seti", "uygun": ["VS"]}
+{"i": 470, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 471, "durum": "dogru", "gorunen": "kanallı V kayışı febi", "uygun": ["VK"]}
+{"i": 472, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 473, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 474, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 475, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 476, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 477, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 478, "durum": "marka", "gorunen": "SKF baskılı kanallı kayış", "uygun": ["VK"]}
+{"i": 479, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 480, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 481, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 482, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 483, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 484, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 485, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 486, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 487, "durum": "dogru", "gorunen": "Marelli paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 488, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 489, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 490, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 491, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 492, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 493, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 494, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 495, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 496, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 497, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 498, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 499, "durum": "dogru", "gorunen": "ince V kayışı", "uygun": ["VK"]}
+{"i": 500, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 501, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 502, "durum": "dogru", "gorunen": "Marelli paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 503, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 504, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 505, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 506, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 507, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 508, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 509, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 510, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 511, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 512, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 513, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 514, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 515, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 516, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 517, "durum": "dogru", "gorunen": "triger kayış muhafazası", "uygun": ["TD"]}
+{"i": 518, "durum": "dogru", "gorunen": "kayış, gergi, PSA kutu", "uygun": ["VS"]}
+{"i": 519, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 520, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 521, "durum": "dogru", "gorunen": "Dayco paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 522, "durum": "dogru", "gorunen": "kanallı kayış, gergi Eurorepar", "uygun": ["VS"]}
+{"i": 523, "durum": "yanlis", "gorunen": "triger kayış seti (isimle uyumlu)", "uygun": ["TS"]}
+{"i": 524, "durum": "dogru", "gorunen": "kanallı rulman", "uygun": ["VR"]}
+{"i": 525, "durum": "yanlis", "gorunen": "rulman (isimle uyumlu)", "uygun": ["VR"]}
+{"i": 526, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 527, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 528, "durum": "dogru", "gorunen": "kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 529, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 530, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 531, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 532, "durum": "dogru", "gorunen": "kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 533, "durum": "yanlis", "gorunen": "kayış koruma kapağı (isimle uyumlu)", "uygun": []}
+{"i": 534, "durum": "dogru", "gorunen": "kanallı kayış ve gergiler", "uygun": ["VS"]}
+{"i": 535, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 536, "durum": "dogru", "gorunen": "rulman Dayco", "uygun": ["VR"]}
+{"i": 537, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 538, "durum": "dogru", "gorunen": "rulman iki görünüm", "uygun": ["VR"]}
+{"i": 539, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 540, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 541, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 542, "durum": "dogru", "gorunen": "kanallı rulman", "uygun": ["VR"]}
+{"i": 543, "durum": "dogru", "gorunen": "V kayış gergisi Dayco", "uygun": ["VR"]}
+{"i": 544, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 545, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 546, "durum": "yanlis", "gorunen": "dişli triger gergi rulmanı", "uygun": ["TR"]}
+{"i": 547, "durum": "dogru", "gorunen": "kanallı kayış ve rulmanlar", "uygun": ["VS"]}
+{"i": 548, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 549, "durum": "marka", "gorunen": "NTN-SNR logolu kayış seti", "uygun": ["VS"]}
+{"i": 550, "durum": "dogru", "gorunen": "braketli kanallı rulman", "uygun": ["VR"]}
+{"i": 551, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 552, "durum": "marka", "gorunen": "yan sanayi etiketli kanallı kayış", "uygun": ["VK"]}
+{"i": 553, "durum": "dogru", "gorunen": "rulman ve kapak", "uygun": ["VR"]}
+{"i": 554, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 555, "durum": "marka", "gorunen": "RIDEX kutulu gergi", "uygun": ["VR"]}
+{"i": 556, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 557, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 558, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 559, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 560, "durum": "marka", "gorunen": "Gates Micro-V kayış ve gergi seti", "uygun": ["VS"]}
+{"i": 561, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 562, "durum": "dogru", "gorunen": "kanallı kayış ve gergiler", "uygun": ["VS"]}
+{"i": 563, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 564, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 565, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 566, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 567, "durum": "dogru", "gorunen": "Marelli paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 568, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 569, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 570, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 571, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 572, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 573, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 574, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 575, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 576, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 577, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 578, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 579, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 580, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 581, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 582, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 583, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 584, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 585, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 586, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 587, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 588, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 589, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 590, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 591, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 592, "durum": "dogru", "gorunen": "kanallı kayış PSA poşette", "uygun": ["VK"]}
+{"i": 593, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 594, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 595, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 596, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 597, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 598, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 599, "durum": "kotu", "gorunen": "rulman ölçü çizimi Dayco", "uygun": []}
+{"i": 600, "durum": "dogru", "gorunen": "kanallı rulman", "uygun": ["VR"]}
+{"i": 601, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 602, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 603, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Eurorepar", "uygun": ["VS"]}
+{"i": 604, "durum": "dogru", "gorunen": "kanallı kayış ve rulmanlar Eurorepar", "uygun": ["VS"]}
+{"i": 605, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 606, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 607, "durum": "dogru", "gorunen": "kayış ve rulmanlar Eurorepar", "uygun": ["TS"]}
+{"i": 608, "durum": "dogru", "gorunen": "kayış ve rulmanlar Eurorepar", "uygun": ["TS"]}
+{"i": 609, "durum": "dogru", "gorunen": "avara rulmanı", "uygun": ["TD"]}
+{"i": 610, "durum": "dogru", "gorunen": "avara rulmanı", "uygun": ["TR"]}
+{"i": 611, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 612, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 613, "durum": "dogru", "gorunen": "triger kapağı", "uygun": ["TD"]}
+{"i": 614, "durum": "dogru", "gorunen": "avara rulmanı", "uygun": ["TR"]}
+{"i": 615, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 616, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 617, "durum": "dogru", "gorunen": "triger muhafaza kapağı", "uygun": ["TD"]}
+{"i": 618, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 619, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 620, "durum": "dogru", "gorunen": "triger muhafaza kapağı", "uygun": ["TD"]}
+{"i": 621, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 622, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 623, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 624, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 625, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Eurorepar", "uygun": ["TSD"]}
+{"i": 626, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 627, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim, kutu", "uygun": ["TSD"]}
+{"i": 628, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Eurorepar", "uygun": ["TSD"]}
+{"i": 629, "durum": "dogru", "gorunen": "dişli triger kayışı Eurorepar", "uygun": ["TK"]}
+{"i": 630, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 631, "durum": "dogru", "gorunen": "avara rulmanı", "uygun": ["TR"]}
+{"i": 632, "durum": "marka", "gorunen": "NTN-SNR logolu kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 633, "durum": "dogru", "gorunen": "triger kapağı", "uygun": ["TD"]}
+{"i": 634, "durum": "dogru", "gorunen": "dişli triger kayışı Eurorepar", "uygun": ["TK"]}
+{"i": 635, "durum": "dogru", "gorunen": "kayış ve rulman Eurorepar", "uygun": ["TS"]}
+{"i": 636, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 637, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 638, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 639, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 640, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 641, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 642, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 643, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 644, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 645, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 646, "durum": "dogru", "gorunen": "Dayco baskılı triger kayışı", "uygun": ["TK"]}
+{"i": 647, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 648, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 649, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 650, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 651, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 652, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 653, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 654, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 655, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 656, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 657, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 658, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 659, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 660, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 661, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 662, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 663, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 664, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 665, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 666, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 667, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 668, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 669, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 670, "durum": "kotu", "gorunen": "kayış güzergah şeması", "uygun": []}
+{"i": 671, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 672, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 673, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 674, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 675, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 676, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 677, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 678, "durum": "dogru", "gorunen": "dişli triger kayışı Dayco", "uygun": ["TK"]}
+{"i": 679, "durum": "dogru", "gorunen": "dişli triger kayışı", "uygun": ["TK"]}
+{"i": 680, "durum": "dogru", "gorunen": "rulman ve kapak", "uygun": ["VR"]}
+{"i": 681, "durum": "dogru", "gorunen": "braketli rulman", "uygun": ["VR"]}
+{"i": 682, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 683, "durum": "yanlis", "gorunen": "sadece gergi mekanizması", "uygun": ["VR"]}
+{"i": 684, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 685, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 686, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 687, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 688, "durum": "kotu", "gorunen": "rulman ölçü çizimi", "uygun": []}
+{"i": 689, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 690, "durum": "dogru", "gorunen": "kanallı kayış ve gergiler Dayco", "uygun": ["VS"]}
+{"i": 691, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 692, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 693, "durum": "marka", "gorunen": "Continental baskılı kayış ve gergi", "uygun": ["VS"]}
+{"i": 694, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 695, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 696, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 697, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 698, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 699, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 700, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 701, "durum": "dogru", "gorunen": "kanallı rulman ve kutu", "uygun": ["VR"]}
+{"i": 702, "durum": "dogru", "gorunen": "V kayış gergisi Dayco", "uygun": ["VR"]}
+{"i": 703, "durum": "yanlis", "gorunen": "sadece kanallı kayış Eurorepar", "uygun": ["VK"]}
+{"i": 704, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 705, "durum": "dogru", "gorunen": "INA kanallı kayış ve gergi", "uygun": ["VS"]}
+{"i": 706, "durum": "dogru", "gorunen": "kanallı rulman", "uygun": ["VR"]}
+{"i": 707, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 708, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 709, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 710, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 711, "durum": "kotu", "gorunen": "bozuk/yarım rulman görseli", "uygun": []}
+{"i": 712, "durum": "dogru", "gorunen": "kanallı kayış ve rulmanlar Eurorepar", "uygun": ["VS"]}
+{"i": 713, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 714, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 715, "durum": "dogru", "gorunen": "kanallı kayış ve rulmanlar Eurorepar", "uygun": ["VS"]}
+{"i": 716, "durum": "kotu", "gorunen": "rulman ölçü çizimi", "uygun": []}
+{"i": 717, "durum": "marka", "gorunen": "SKF VKMA kodlu kayış+gergi", "uygun": ["VS"]}
+{"i": 718, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 719, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 720, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 721, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 722, "durum": "dogru", "gorunen": "yaylı gergi mekanizması", "uygun": ["VR"]}
+{"i": 723, "durum": "dogru", "gorunen": "rulman Dayco", "uygun": ["VR"]}
+{"i": 724, "durum": "marka", "gorunen": "Continental baskılı kayış ve gergi", "uygun": ["VS"]}
+{"i": 725, "durum": "dogru", "gorunen": "kanallı kayış ve gergiler", "uygun": ["VS"]}
+{"i": 726, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Eurorepar", "uygun": ["VS"]}
+{"i": 727, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 728, "durum": "dogru", "gorunen": "kanallı rulman", "uygun": ["VR"]}
+{"i": 729, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 730, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 731, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 732, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 733, "durum": "kotu", "gorunen": "parça numaralı çizim ve devirdaim", "uygun": []}
+{"i": 734, "durum": "dogru", "gorunen": "triger üst kapağı", "uygun": ["TD"]}
+{"i": 735, "durum": "dogru", "gorunen": "kayış, rulmanlar, Eurorepar kutu", "uygun": ["TS"]}
+{"i": 736, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 737, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 738, "durum": "kotu", "gorunen": "profil çizimi ve rulmanlar", "uygun": []}
+{"i": 739, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 740, "durum": "yanlis", "gorunen": "kayış ve rulmanlar, devirdaim yok", "uygun": ["TS"]}
+{"i": 741, "durum": "dogru", "gorunen": "kayış, gergi, Renault poşet", "uygun": ["TS"]}
+{"i": 742, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 743, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 744, "durum": "dogru", "gorunen": "triger kapağı", "uygun": ["TD"]}
+{"i": 745, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 746, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 747, "durum": "dogru", "gorunen": "kayış ve gergi Dayco", "uygun": ["TS"]}
+{"i": 748, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 749, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 750, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 751, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 752, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 753, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 754, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 755, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 756, "durum": "dogru", "gorunen": "triger kapağı", "uygun": ["TD"]}
+{"i": 757, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 758, "durum": "kotu", "gorunen": "rulman ölçü çizimi INA", "uygun": []}
+{"i": 759, "durum": "dogru", "gorunen": "kayış ve rulmanlar Eurorepar", "uygun": ["TS"]}
+{"i": 760, "durum": "dogru", "gorunen": "kayış ve rulman Dayco", "uygun": ["TS"]}
+{"i": 761, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 762, "durum": "dogru", "gorunen": "kayış ve rulmanlar Eurorepar", "uygun": ["TS"]}
+{"i": 763, "durum": "dogru", "gorunen": "kayış ve rulman Peugeot poşet", "uygun": ["TS"]}
+{"i": 764, "durum": "dogru", "gorunen": "kayış ve rulman Eurorepar", "uygun": ["TS"]}
+{"i": 765, "durum": "dogru", "gorunen": "rulman", "uygun": ["TR"]}
+{"i": 766, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 767, "durum": "dogru", "gorunen": "gergi rulmanı Dayco", "uygun": ["TR"]}
+{"i": 768, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 769, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 770, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 771, "durum": "dogru", "gorunen": "avara rulmanı", "uygun": ["TR"]}
+{"i": 772, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 773, "durum": "dogru", "gorunen": "gergi rulmanı INA", "uygun": ["TR"]}
+{"i": 774, "durum": "dogru", "gorunen": "metal triger kapağı", "uygun": ["TD"]}
+{"i": 775, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 776, "durum": "dogru", "gorunen": "gergi rulmanı ve cıvata", "uygun": ["TR"]}
+{"i": 777, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 778, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 779, "durum": "kotu", "gorunen": "silik/yarım gergi görseli", "uygun": []}
+{"i": 780, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 781, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 782, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 783, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 784, "durum": "dogru", "gorunen": "yaylı gergi rulmanı", "uygun": ["TR"]}
+{"i": 785, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 786, "durum": "dogru", "gorunen": "dişli gergi rulmanı", "uygun": ["TR"]}
+{"i": 787, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 788, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 789, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 790, "durum": "dogru", "gorunen": "kayışlar, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 791, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 792, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 793, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 794, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 795, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 796, "durum": "dogru", "gorunen": "dişli avara rulmanı", "uygun": ["TR"]}
+{"i": 797, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 798, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 799, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 800, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 801, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 802, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 803, "durum": "dogru", "gorunen": "hidrolik gergi pistonu Dayco", "uygun": ["TR"]}
+{"i": 804, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 805, "durum": "dogru", "gorunen": "kayış ve rulmanlar Eurorepar", "uygun": ["TS"]}
+{"i": 806, "durum": "kotu", "gorunen": "rulman ölçü çizimi", "uygun": []}
+{"i": 807, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 808, "durum": "dogru", "gorunen": "gergi rulmanı", "uygun": ["TR"]}
+{"i": 809, "durum": "yanlis", "gorunen": "çentikli tek V kayışı", "uygun": []}
+{"i": 810, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 811, "durum": "dogru", "gorunen": "kanallı kayış ve PSA kutu", "uygun": ["VK"]}
+{"i": 812, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 813, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 814, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 815, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 816, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 817, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 818, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 819, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 820, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 821, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 822, "durum": "dogru", "gorunen": "Dayco paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 823, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 824, "durum": "dogru", "gorunen": "kanallı kayış Dayco etiketli", "uygun": ["VK"]}
+{"i": 825, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 826, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 827, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 828, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 829, "durum": "yanlis", "gorunen": "Continental kayış, rulman, gergi seti", "uygun": ["VS"]}
+{"i": 830, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 831, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 832, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 833, "durum": "dogru", "gorunen": "Dayco paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 834, "durum": "dogru", "gorunen": "kanallı kayış Peugeot logo", "uygun": ["VK"]}
+{"i": 835, "durum": "dogru", "gorunen": "Dayco paketli kanallı kayış", "uygun": ["VK"]}
+{"i": 836, "durum": "dogru", "gorunen": "kanallı V kayışı", "uygun": ["VK"]}
+{"i": 837, "durum": "dogru", "gorunen": "kanallı V kayışı Dayco", "uygun": ["VK"]}
+{"i": 838, "durum": "dogru", "gorunen": "kanallı V kayışı Eurorepar", "uygun": ["VK"]}
+{"i": 839, "durum": "dogru", "gorunen": "kayış ve rulman Dayco", "uygun": ["TS"]}
+{"i": 840, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 841, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 842, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 843, "durum": "dogru", "gorunen": "INA kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 844, "durum": "dogru", "gorunen": "kayış, rulmanlar, dişli Dayco", "uygun": ["TS"]}
+{"i": 845, "durum": "dogru", "gorunen": "kayış ve gergi", "uygun": ["TS"]}
+{"i": 846, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 847, "durum": "dogru", "gorunen": "kayış ve gergi Dayco", "uygun": ["TS"]}
+{"i": 848, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 849, "durum": "dogru", "gorunen": "kayış, rulmanlar, dişli", "uygun": ["TS"]}
+{"i": 850, "durum": "kotu", "gorunen": "rulman ölçü çizimi", "uygun": []}
+{"i": 851, "durum": "dogru", "gorunen": "kayış, rulmanlar, dişli Dayco", "uygun": ["TS"]}
+{"i": 852, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 853, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 854, "durum": "dogru", "gorunen": "rulman Dayco", "uygun": ["TR"]}
+{"i": 855, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 856, "durum": "dogru", "gorunen": "INA kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 857, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 858, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 859, "durum": "dogru", "gorunen": "iki gergi rulmanı", "uygun": ["TR"]}
+{"i": 860, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Eurorepar", "uygun": ["TSD"]}
+{"i": 861, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 862, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim", "uygun": ["TSD"]}
+{"i": 863, "durum": "dogru", "gorunen": "kayış, rulmanlar, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 864, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 865, "durum": "dogru", "gorunen": "INA kayış rulman devirdaim", "uygun": ["TSD"]}
+{"i": 866, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 867, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 868, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 869, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 870, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Eurorepar", "uygun": ["TSD"]}
+{"i": 871, "durum": "dogru", "gorunen": "kayış, rulmanlar, PSA kutu", "uygun": ["TS"]}
+{"i": 872, "durum": "yanlis", "gorunen": "kanallı kayış, rulman, gergi seti", "uygun": ["VS"]}
+{"i": 873, "durum": "dogru", "gorunen": "kanallı V kayışı küçük", "uygun": ["VK"]}
+{"i": 874, "durum": "yanlis", "gorunen": "kanallı kayış, rulman, gergi seti", "uygun": ["VS"]}
+{"i": 875, "durum": "dogru", "gorunen": "V kayış gergi mekanizması", "uygun": ["VR"]}
+{"i": 876, "durum": "dogru", "gorunen": "kanallı kayış ve gergi Dayco", "uygun": ["VS"]}
+{"i": 877, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 878, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 879, "durum": "dogru", "gorunen": "rulman ve pullar", "uygun": ["VR"]}
+{"i": 880, "durum": "marka", "gorunen": "RIDEX kutulu rulman", "uygun": ["VR"]}
+{"i": 881, "durum": "dogru", "gorunen": "kanallı rulman Gates", "uygun": ["VR"]}
+{"i": 882, "durum": "dogru", "gorunen": "kanallı rulman", "uygun": ["VR"]}
+{"i": 883, "durum": "dogru", "gorunen": "rulman", "uygun": ["VR"]}
+{"i": 884, "durum": "kotu", "gorunen": "INA rulman ölçü çizimi", "uygun": []}
+{"i": 885, "durum": "dogru", "gorunen": "Dayco kutulu gergi", "uygun": ["VR"]}
+{"i": 886, "durum": "dogru", "gorunen": "kayış, rulman, devirdaim Dayco", "uygun": ["TSD"]}
+{"i": 887, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 888, "durum": "marka", "gorunen": "Continental etiketli kayış, rulman, devirdaim", "uygun": ["TSD"]}
+{"i": 889, "durum": "marka", "gorunen": "Continental etiketli kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 890, "durum": "dogru", "gorunen": "kayış ve rulman Dayco", "uygun": ["TS"]}
+{"i": 891, "durum": "dogru", "gorunen": "kayış ve gergi Dayco", "uygun": ["TS"]}
+{"i": 892, "durum": "dogru", "gorunen": "kayış ve rulmanlar Dayco", "uygun": ["TS"]}
+{"i": 893, "durum": "yok", "gorunen": "görsel yok", "uygun": []}
+{"i": 894, "durum": "kotu", "gorunen": "SORRY NO IMAGE placeholder", "uygun": []}
+{"i": 895, "durum": "dogru", "gorunen": "kayış ve rulman", "uygun": ["TS"]}
+{"i": 896, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 897, "durum": "dogru", "gorunen": "kayış ve rulmanlar", "uygun": ["TS"]}
+{"i": 898, "durum": "marka", "gorunen": "SKF VKMA kodlu kayış+gergi", "uygun": ["VS"]}
