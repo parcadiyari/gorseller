@@ -9,3 +9,4 @@
 - 38 ürün klasikV (tek V dişli kayış görseli) — ayrı kontrol.
 - 22.11 18:25: trga1+2 incelendi, 93 ürüne doğru görsel yüklendi (doğrulandı). Kalan 511 set/rulman ürünü: /home/claude/triger_vkayis_gorseli_bulunamayan.xlsx
 - 22.11 22:58: Google Görseller turu başladı: durum/google_q_trg.json (511 ürün/674 sorgu), Chrome tab google.com/robots.txt, __G (sha adb7cc9). ~2 saat. Captcha olursa durur.
+- 22.11 23:45: Google captcha (28. sorgu, 16 sonuç window.__GO google sekmesinde). Kalan kuyruk durum/yandex_q_trg2.json (646) üç motorda: Yandex __Y (yavaş), Bing __W (bing.com/images/search sekmesi, katsiz_worker blob), Brave __B (search.brave.com/robots.txt, kuyruk TERS sırada). Hepsi bitince res birleştirilip trgb listesi yapılacak.
